@@ -15,7 +15,7 @@ role: Professor in Popular Music Analysis
 
 # Organizations/Affiliations
 organizations:
-- name:  University of South Wales/Prifysgol De Cymru  
+- name: University of South Wales/Prifysgol De Cymru
   url: "https://www.southwales.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,6 +25,13 @@ topics:
 - Popular Music
 - Popular Music Pedagogy
 - Musicology
+
+education:
+  courses:
+  - course: PhD in Musicology
+    institution: University of Hertfordshire
+    year: 2004
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
