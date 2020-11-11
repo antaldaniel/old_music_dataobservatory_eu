@@ -23,7 +23,8 @@ bio: Experienced international researcher with interests that lie at the interse
 
 topics:
 - Popular Music
-- Live Music
+- Popular Music Pedagogy
+- Musicology
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,3 +47,5 @@ email: ""
 user_groups:
 - Researchers
 ---
+
+Dr Paul Carr is an academic at the University of South Wales with research interests centred around musicology, performance and popular music pedagogy. His recent publications have included several papers on Frank Zappa (such as his relationship to politics, sex, musical theatre, gesture and tribute bands), the philosophical position of popular music foundation degrees, Welsh Identity, and the impact of electric guitarists on the jazz tradition. He also occasionally works as a forensic musicologist.
