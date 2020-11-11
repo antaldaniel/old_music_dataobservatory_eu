@@ -37,8 +37,6 @@ date_format = "Jan 2006"
   date_start = "2020-09-15"
   date_end = ""
   description = ""
-  
-
 
 [[item]]
   organization = "Central European Music Industry Report"
@@ -48,6 +46,16 @@ date_format = "Jan 2006"
   date_start = "2020-01-30"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "HDS ZAMP"
+  organization_url = "https://www.zamp.hr/clanak/pregled/2197/studija-naknade-za-privatno-kopiranje-btl-u-hrvatskoj-drasticno-ispod-prosjeka-eu"
+  title = "Private Copying in Croatia"
+  url = "https://dataandlyrics.com/publication/private_copying_croatia_2019/"
+  date_start = "2019-10-30"
+  date_end = ""
+  description = ""
+  
   
 [[item]]
   organization = "First Hungarian Music Industry Report"
