@@ -14,10 +14,10 @@ organizations:
   url: "https://dataobservatory.eu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: We want big data to work for small venues, independent labels, startups, great and undiscovered artists, and lead the way to create a truly inclusive European Music Observatory.
 
 interests:
-- [Music Economy](http://data.music.dataobservatory.eu/#music-economy)
+- Music Economy
 - Computational Linguistics
 - Information Retrieval
 
@@ -65,6 +65,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+
+A `data observatory` is a permanent observation point for social and economic data. We have [reviewed](https://dataobservatory.eu/faq/observatories/) about 45 functioning and 15 failed observatories to assess how a fragmented and conflict of interest fraught industry like music could build an affordable, useful and high quality Music Observatory.
 
 **Data Pillars**:
 1. pillar: [Music Economy](http://data.music.dataobservatory.eu/#music-economy)
