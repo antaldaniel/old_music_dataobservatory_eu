@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Daniel Antal
-name: Daniel Antal, CFA
+name: Daniel Antal
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Sc
+role: Data Scientist & Co-Founder of the Demo Music Observatory
 
 # Organizations/Affiliations
 organizations:
