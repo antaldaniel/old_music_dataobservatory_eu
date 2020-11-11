@@ -16,11 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: We want big data to work for small venues, independent labels, startups, great and undiscovered artists, and lead the way to create a truly inclusive European Music Observatory.
 
-interests:
-- Music Economy
-- Computational Linguistics
-- Information Retrieval
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -62,7 +57,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
 - Visitors
 ---
 
@@ -75,4 +69,5 @@ A `data observatory` is a permanent observation point for social and economic da
 
 **Innovative Uses**
 * Evidence-based Policy & Advocacy Reports
-* 
+* Ex Ante & Ex Post Grant Evaluation
+* Royalty Pricing, Damage Calculations & Valuing Music
