@@ -19,7 +19,7 @@ organizations:
   url: "https://dataobservatory.eu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Eexperienced international researcher with interests that lie at the intersection between data science and the humanities.
+bio: Experienced international researcher with interests that lie at the intersection between data science and the humanities.
 
 topics:
 - Ethnomusicology
