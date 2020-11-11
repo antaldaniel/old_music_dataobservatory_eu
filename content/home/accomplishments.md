@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "First National Music Industry Report"
+  organization = "First Hungarian Music Industry Report"
   organization_url = "https://www.datacamp.com"
   title = "Object-Oriented Programming in R: S3 and R6 Course"
   url = ""
