@@ -72,3 +72,6 @@ A `data observatory` is a permanent observation point for social and economic da
 1. pillar: [Music Economy](http://data.music.dataobservatory.eu/#music-economy)
 2. pillar: [Music Diversity & Circulation](http://data.music.dataobservatory.eu/#music-diversity)
 3. pillar: [Music, Society and Citizenship](http://data.music.dataobservatory.eu/#music-society).
+
+**Innovative Uses**
+* 

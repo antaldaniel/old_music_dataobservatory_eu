@@ -24,6 +24,20 @@
   weight = 40
 
 [[main]]
+  name = "Data: Music Economy"
+  url = "http://data.music.dataobservatory.eu/music-economy.html"
+  weight = 50
+
+  [[main]]
+  name = "Data: Cirulation & Diversity"
+  url = "http://data.music.dataobservatory.eu/music-diversity.html"
+  weight = 51
+
+  [[main]]
+  name = "http://data.music.dataobservatory.eu/music-society.html"
+  url = "#featured"
+  weight = 52
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
