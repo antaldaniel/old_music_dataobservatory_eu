@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Academic Template"
-subtitle = ""
+title = "Demo Music Observatory"
+subtitle = "A concept to build a European Music Observatory"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
