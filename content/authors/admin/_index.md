@@ -11,7 +11,7 @@ role: co-founder
 # Organizations/Affiliations
 organizations:
 - name: Reprex BV
-  url: ""
+  url: "https://dataobservatory.eu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -20,18 +20,6 @@ interests:
 - Music Economy
 - Computational Linguistics
 - Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
