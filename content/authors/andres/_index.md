@@ -1,7 +1,7 @@
 ---
 # Display name
-title: Andres
-name:  Andrés García Molina, PhD
+title: Andrés García Molina, PhD
+name:  Andrés García Molina
 
 # Username (this should match the folder name)
 authors:
