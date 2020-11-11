@@ -1,6 +1,6 @@
 +++
-title = "Central & Eastern European Music Industry Report 2020"
-date = 2020-01-29T16:00:00
+title = "The Welsh Music Industries In a Post-Covid World"
+date = 2020-11-11T10:00:00
 draft = false
 
 authors = ["Paul Carr"]
@@ -67,4 +67,4 @@ In July 2020, Professor Paul Carr was commissioned by [Senedd Research](https://
 
 Although the report considers the Welsh music industries more broadly, its primary focus is on live music, as it is this which has been the recent concern of the [Culture, Welsh Language and Communications Committee](https://senedd.wales/en/bus-home/committees/Pages/Committee-Profile.aspx?cid=445). It is also this subsector that has been widely reported as being impacted the most by the pandemic. The report concludes by documenting a series of recommendations for the Culture, Welsh Language and Communications Committee to consider presenting to Welsh Government.
 
-In order to give the reader a concise snapshot of details contained in the report, this Executive Summery outlines the context of the Welsh industries pre and post Covid-19, prior to contextualising its recommendations, which are sub divided into the following six categories: Reopening and Recovery Strategies; Research; Strategic Opportunities and Promotion; Policy; Education; Funding.
+In order to give the reader a concise snapshot of details contained in the report the Executive Summery outlines the context of the Welsh industries pre and post Covid-19, prior to contextualising its recommendations, which are sub divided into the following six categories: Reopening and Recovery Strategies; Research; Strategic Opportunities and Promotion; Policy; Education; Funding.
