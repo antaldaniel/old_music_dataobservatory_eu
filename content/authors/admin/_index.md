@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Music Economy
+- [Music Economy](http://data.music.dataobservatory.eu/#music-economy)
 - Computational Linguistics
 - Information Retrieval
 
