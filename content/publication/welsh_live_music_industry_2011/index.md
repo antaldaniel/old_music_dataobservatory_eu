@@ -11,12 +11,12 @@ authors = ["Paul Carr"]
 publication_types = ["4"]
 
 # Abstract and optional shortened version.
-abstract = "This report outlines the emergence of private and public sector support for the music industries in Wales since the pandemic commenced; examines the advice given to the music industries concerning roadmaps out of the pandemic; reviews the industry and academic research that has emerged since the pandemic started and finally, compares Welsh Government support packages tonations in other parts of the world."
+abstract = "This report is the result of a grant application awarded by The Welsh Music Foundation, who were given the money by The Welsh Assembly Government. Its purpose was to investigate pertinent issues of the live music industry that resonate within Wales. Research methodology included the implementation of an online questionnaire targeted toward the Welsh music industry, closely followed by a range of face to face interviews with key industry personnel."
 
-abstract_short = "This report outlines private and public sector support, advice given for the music industries in Wales since the Covid-19 pandemic commenced and reviews the industry and academic research."
+abstract_short = "This report investigates the pertinent issues of the live music industry that resonate within Wales."
 
 # Is this a featured publication? (true/false)
-featured = true
+featured = false
 
 # Projects (optional).
 projects = ["music-reports"]
@@ -32,7 +32,7 @@ tags = ["market-report", "live-music", "Wales", "United Kingdom"]
 slides = ""
 
 # Links (optional).
-url_pdf = "https://pure.southwales.ac.uk/en/publications/investigating-the-live-music-industry-in-wales-a-critical-analysis(2032d161-b20b-4707-8ef8-97d339dad3c8).html"
+url_pdf = "https://data.music.dataobservatory.eu/plots/Paul-Carr-WMF-Report.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

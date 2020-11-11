@@ -32,7 +32,7 @@ tags = ["market-report", "music-industry", "Wales", "United Kingdom", "Covid-19"
 slides = ""
 
 # Links (optional).
-url_pdf = "http://ceereport2020.ceemid.eu/CEE_Report.pdf"
+url_pdf = "https://data.music.dataobservatory.eu/plots/Paul%20Carr%20Culture%20Welsh%20Language%20and%20CC%20Report.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
