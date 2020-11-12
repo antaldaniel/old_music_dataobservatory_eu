@@ -9,18 +9,18 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
+  name = "Data & Lyrics Blog"
   url = "https://dataandlyrics.com/"
   weight = 20
 
 [[main]]
-  name = "Innovation"
-  url = "#projects"
+  name = "Publications"
+  url = "#featured"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Innovation"
+  url = "#projects"
   weight = 40
 
 [[main]]
