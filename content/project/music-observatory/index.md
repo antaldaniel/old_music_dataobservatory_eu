@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Music Observatory"
+title = "Our Approach To A European Music Observatory"
 
 # Date this page was created.
 date = 2020-08-26T08:00:00
@@ -36,31 +36,26 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "The royalty gap within Europe"
+  caption = "The royalty gap: we want reduce inequalities within Western and Eastern, Northern and Southern Europe."
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-Data is power, and `big data creates injustice`.  Organizations that control large amounts of data, for example, the entire listening history of hundreds of millions of people in all major countries of the world, can train algorithms and robots that drive most of the music in the world.  They can make your investment into a sound recording successful or doomed. They can circumvent or help a local content regulation, reinforce, or disable a national cultural policy goal.  A country may introduce national artist quotas on radio, if all the youth will be personally recommended foreign songs in their music discovery age in the very same country.
+A `data observatory` is a permanent observation point for social and economic data. We have [reviewed](https://dataobservatory.eu/faq/observatories/) about 45 functioning and 15 failed observatories to assess how a fragmented and conflict of interest fraught industry like music could build an affordable, useful and high quality Music Observatory.
 
-`We want big data to work for small venues, independent labels, startups, great and undiscovered artists.` We believe that you cannot make a successful album launch, a market entry or introduce a successful cultural policy without large amounts of well processed and correctly analysed data. We want to create a [Music Observatory](https://music.dataobservatory.eu/) that integrates the small data of many small bands, small labels, small venues, small countries, and mount correct the injustice. Make algorithms transparent and the competition fair.
+We do not want to build a data observatory alone, and we do not want to own this concept. On the contrary --- we want to be members of Consortium that can build an inclusive data observatory. We believe that the European Music Observatory should help ending the royalty gap between Northwestern and Southeastern Europe, should be inclusive, and equip the European music industry with large enough data to make the promise of closing the value gap a reality.
 
-In 2020 most of the data is proprietary to a few, U.S.-based companies, while most of the paying audience is the European Union. This year, many European governments started to challenge the competition conditions. The tide is turning, and we do not see this as an EU-US rivalry, because many players of the American music industry share all the pains of the European music industry.
+The European Music Observatory should be open for collaborations with representative [international music organizations](#internationalparnter), [representative national organizations](#nationalpartner),  [city-, regional- or provincial organizations](#subnationalpartner), and [business and scientific research organizations](#businesspartners), and, because the music industry is largely made up from creative freelancer networks and [microenterprises, even individual researchers](#smallpartners) (to a limited extent). We believe that it should be able to demonstrate direct value for [individual artists, technicians and managers](#musicianpartner), too. We want to make this demonstration together with stakeholders from these segments.
 
-Our [Demo Music Observatory](https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/) in September 2020 and got into the presitgious [Yes!Delft AI Validation Lab](https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/). Our demo observatory is an example how we believe the European Data Observatory should be built. An observatory is a permanent observation point for social and economic data. We want to prove that this process can be made cost-effectively and efficiently, providing a high-quality, valuable and timely product by employing best practices in research automation and open source software, using open data in open collaboration with the music industry, artists, technicians and managers.
+Data is power, and `big data creates injustice`.  Organizations that control large amounts of data, for example, the entire listening history of hundreds of millions of people in all major countries of the world, can train algorithms and robots that drive most of the music in the world.  They can make your investment into a sound recording successful or doomed. They can circumvent or help a local content regulation, reinforce, or disable a national cultural policy goal.  We want to make sure that our way of data integration is democratic, inclusive and transparent, and will not re-inforce, but reduce inequalities within Western and Eastern Europe, Northern and Southern Europe, between independent and major labels. 
 
-We want to support the European music industry and our friends in North America, Australia, and all over the world to turn the tables with \@ref(innovation) [innovation](https://music.dataobservatory.eu/innovation.html) coming from the open source community.
+`We want big data to work for small venues, independent labels, startups, great and undiscovered artists.` We believe that you cannot make a successful album launch, a market entry or introduce a successful cultural policy without large amounts of well processed and correctly analysed data. We want to create an observatory that integrates the small data of many small bands, small labels, small venues, small countries, and mount correct the injustice. Make algorithms transparent and the competition fair.
 
-* We want to help you to create alternative recommendation engines that actually recommend songs from your country, and we want to give you very clear export market targets with the help of [AI](https://music.dataobservatory.eu/innovation.html#ai). Our [Listen Local Initiative](https://dataandlyrics.com/project/listen-local/) is aiming to create recommendation engines for cities and regions, and make sure that local bands are recommended to local audiences and audiences in the regions where they will be touring after the Covid-19 pandemic. 
+Our `Demo Music Observatory` [was launched](https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/) in September 2020 and got into the presitgious [Yes!Delft AI Validation Lab](https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/). Our demo observatory is an example how we believe the European Data Observatory should be built. An observatory is a permanent observation point for social and economic data. We want to prove that this process can be made cost-effectively and efficiently, providing a high-quality, valuable and timely product by employing best practices in research automation and open source software, using open data in open collaboration with the music industry, artists, technicians and managers.
 
-* We want your evidence to stand a fighting chance against large teams of professional legal and economics teams on the other side with [proper valuations and damage claims](https://music.dataobservatory.eu/innovation.html#valuation).  And we want to present all those hundreds and thousands of pages automatically, going through dozens and dozens of automated "unit-tests" until nobody can find errors.
-
-* We want you to be able to prove to your fans, the press, your economy minister that music in many countries has not been at the mercy of the taxpayer, but has been carrying far heavier tax burdens than manufacturers.  We want to make your case that the music industry plays a vital role in the European economic recovery and job creation, because we can create [economic impact assessments](https://music.dataobservatory.eu/innovation.html#valuation#eia) on GDP, employment, tax, import and export effects automatically. 
-* Because music and culture are often managed at the level of cities, regions and communities, we want to give you all the data on sub-national levels, whether for regions, metropolitan areas or smaller divisions. 
-
-This is why we are launching now or [Demo Music Observatory](https://music.dataobservatory.eu/) and soon its twin, the Creative and [Cultural Sectors Demo Observatory](https://ccs.dataobservatory.eu/), because video producers, book authors, magazine publishers, film distributors and public broadcasters are sharing the pains of the music industry. We believe that the tides are turning because both regulators and these industries have started to fight back, and there is an awful lot of value, money and creativity is at stake.
+## Quality, Transparency & Technical Requirements 
 
 - [x] The `European Music Observatory` should fully exploit the EU's **open data** regime. (See our examples: [our first open data release](https://dataandlyrics.com/post/2020-04-16-regional-opendata-release/))
 - [x] It should be transparent, the indicator design should be based on open-source statistical software.
