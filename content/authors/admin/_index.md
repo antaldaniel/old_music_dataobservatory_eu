@@ -66,7 +66,7 @@ A `data observatory` is a permanent observation point for social and economic da
 * [Automated Reports](https://music.dataobservatory.eu/project/music-report/): Evidence-based policy or advocacy reports, automated regulatory filings. 
 * [Alternative Recommendation Engines](https://music.dataobservatory.eu/project/listen-local/): Transparent (export and domestic) market targeting, playlisting, recommendation that work on behalf of the music creators and not against them.
 * [Smart Grants](https://music.dataobservatory.eu/project/grants/): Grant design and control with evidence-based parameters and impact indicators.
-* [Original Valuations](): Music valuations and royalty setting that is not free-riding on comparisons and avoids a race to the bottom.
+* [Original Valuations](https://music.dataobservatory.eu/project/valuation/): Music valuations and royalty setting that is not free-riding on comparisons and avoids a race to the bottom.
 
 **Data Pillars**:
 1. pillar: [Music Economy](http://data.music.dataobservatory.eu/#music-economy)
