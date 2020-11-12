@@ -19,7 +19,7 @@ abstract_short = "Slovakia's first music industry report. Following the three in
 featured = true
 
 # Projects (optional).
-projects = ["music-observatory"]
+projects = ["music-report"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
