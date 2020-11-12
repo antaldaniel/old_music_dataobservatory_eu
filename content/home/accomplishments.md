@@ -23,13 +23,12 @@ date_format = "Jan 2006"
   organization_url = "https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/"
   title = "Product/Market Fit Validation in Yes!Delft"
   url = ""
-  certificate_url = "https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/"
   date_start = "2020-09-23"
   date_end = ""
   description = ""
   
 [[item]]
-  organization = "Demo Music Observatory"
+  organization = "Reprex BV"
   organization_url = "https://music.dataobservatory.eu"
   title = "Launching the Demo Music Observatory"
   url = ""
@@ -41,7 +40,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Central European Music Industry Report"
   organization_url = "https://ceereport2020.ceemid.eu/"
-  title = "Blockchain Fundamentals"
+  title = "Central European Music Industry Report"
   url = "https://ceereport2020.ceemid.eu/"
   date_start = "2020-01-30"
   date_end = ""
@@ -59,11 +58,21 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "First Hungarian Music Industry Report"
-  organization_url = "https://www.datacamp.com"
+  organization_url = "https://music.dataobservatory.eu/publication/hungary_music_industry_2014/"
   title = "First Hungarian Music Industry Report"
   url = ""
   date_start = "2017-07-01"
   date_end = "2017-12-21"
+  description = ""
+  
+  
+[[item]]
+  organization = "CEEMID"
+  organization_url = "https://data.music.dataobservatory.eu/annex.html#ceemid-history"
+  title = "CEEMID Central & Eastern European Music Industry Databases"
+  url = ""
+  date_start = "2014-07-01"
+  date_end = "2020-09-15"
   description = ""
 
 +++
