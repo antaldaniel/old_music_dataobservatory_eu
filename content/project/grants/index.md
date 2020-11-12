@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Grants"
+title = "Smart Grants"
 
 # Date this page was created.
 date = 2020-10-16T00:00:00
