@@ -60,14 +60,17 @@ user_groups:
 - Visitors
 ---
 
-A `data observatory` is a permanent observation point for social and economic data. We have [reviewed](https://dataobservatory.eu/faq/observatories/) about 45 functioning and 15 failed observatories to assess how a fragmented and conflict of interest fraught industry like music could build an affordable, useful and high quality Music Observatory.
+A `data observatory` is a permanent observation point for social and economic data. We have [reviewed](https://dataobservatory.eu/faq/observatories/) about 45 functioning and 15 failed observatories to assess how a fragmented and conflict of interest fraught industry like music could build its own shared data ecosystem. This is our subjective view how we would like to participate in the creation of an affordable, useful and high quality [European Music Observatory]().
+
+**Innovative Uses:**
+* [Automated Reports](): Evidence-based policy or advocacy reports, automated regulatory filings. 
+* [Alternative Recommendation Engines](): Transparent (export and domestic) market targeting, playlisting, recommendation that work on behalf of the music creators and not against them.
+* [Smart Grants](): Grant design and control with evidence-based parameters and impact indicators.
+* [Original Valuations](): Music valuations and royalty setting that is not free-riding on comparisons and avoids a race to the bottom.
 
 **Data Pillars**:
 1. pillar: [Music Economy](http://data.music.dataobservatory.eu/#music-economy)
 2. pillar: [Music Diversity & Circulation](http://data.music.dataobservatory.eu/#music-diversity)
 3. pillar: [Music, Society and Citizenship](http://data.music.dataobservatory.eu/#music-society).
 
-**Innovative Uses**
-* Evidence-based Policy & Advocacy Reports
-* Ex Ante & Ex Post Grant Evaluation
-* Royalty Pricing, Damage Calculations & Valuing Music
+

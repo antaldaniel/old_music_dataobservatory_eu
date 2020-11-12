@@ -4,9 +4,10 @@ title = "Our Approach To A European Music Observatory"
 
 # Date this page was created.
 date = 2020-08-26T08:00:00
+lastmod = 2020-11-11T14:30:00+02:00
 
 # Project summary to display on homepage.
-summary = "Collaborative reproducible research in the music industry"
+summary = "We want reduce data inequalities within Western and Eastern, Northern and Southern Europe, and contribute to a transparent data observatory that is inclusive for all."
 
 # Tags: can be used for filtering projects.
 tags = ["ceemid", "surveys", "music-industry", "music-observatory", "reproducible-research"]
@@ -46,6 +47,8 @@ url_code = ""
 A `data observatory` is a permanent observation point for social and economic data. We have [reviewed](https://dataobservatory.eu/faq/observatories/) about 45 functioning and 15 failed observatories to assess how a fragmented and conflict of interest fraught industry like music could build an affordable, useful and high quality Music Observatory.
 
 We do not want to build a data observatory alone, and we do not want to own this concept. On the contrary --- we want to be members of Consortium that can build an inclusive data observatory. We believe that the European Music Observatory should help ending the royalty gap between Northwestern and Southeastern Europe, should be inclusive, and equip the European music industry with large enough data to make the promise of closing the value gap a reality.
+
+{{< figure library="true" src="img/comparative/difficulty_bills_levels.jpg" title="In less developed markets, musicians have more financial difficulties compared to advanced markets, but relative to the local population, too. Source: our Central European Market Report, 2020." >}}
 
 The European Music Observatory should be open for collaborations with representative [international music organizations](#internationalparnter), [representative national organizations](#nationalpartner),  [city-, regional- or provincial organizations](#subnationalpartner), and [business and scientific research organizations](#businesspartners), and, because the music industry is largely made up from creative freelancer networks and [microenterprises, even individual researchers](#smallpartners) (to a limited extent). We believe that it should be able to demonstrate direct value for [individual artists, technicians and managers](#musicianpartner), too. We want to make this demonstration together with stakeholders from these segments.
 
