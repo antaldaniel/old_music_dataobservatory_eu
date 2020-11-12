@@ -60,12 +60,12 @@ user_groups:
 - Visitors
 ---
 
-A `data observatory` is a permanent observation point for social and economic data. We have [reviewed](https://dataobservatory.eu/faq/observatories/) about 45 functioning and 15 failed observatories to assess how a fragmented and conflict of interest fraught industry like music could build its own shared data ecosystem. This is our subjective view how we would like to participate in the creation of an affordable, useful and high quality [European Music Observatory]().
+A `data observatory` is a permanent observation point for social and economic data. We have [reviewed](https://dataobservatory.eu/faq/observatories/) about 45 functioning and 15 failed observatories to assess how a fragmented and conflict of interest fraught industry like music could build its own shared data ecosystem. This is our subjective view how we would like to participate in the creation of an affordable, useful and high quality [European Music Observatory](https://music.dataobservatory.eu/project/listen-local/).
 
 **Innovative Uses:**
-* [Automated Reports](): Evidence-based policy or advocacy reports, automated regulatory filings. 
-* [Alternative Recommendation Engines](): Transparent (export and domestic) market targeting, playlisting, recommendation that work on behalf of the music creators and not against them.
-* [Smart Grants](): Grant design and control with evidence-based parameters and impact indicators.
+* [Automated Reports](https://music.dataobservatory.eu/project/music-report/): Evidence-based policy or advocacy reports, automated regulatory filings. 
+* [Alternative Recommendation Engines](https://music.dataobservatory.eu/project/listen-local/): Transparent (export and domestic) market targeting, playlisting, recommendation that work on behalf of the music creators and not against them.
+* [Smart Grants](https://music.dataobservatory.eu/project/grants/): Grant design and control with evidence-based parameters and impact indicators.
 * [Original Valuations](): Music valuations and royalty setting that is not free-riding on comparisons and avoids a race to the bottom.
 
 **Data Pillars**:
