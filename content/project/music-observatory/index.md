@@ -44,10 +44,6 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-A `data observatory` is a permanent observation point for social and economic data. We have [reviewed](https://dataobservatory.eu/faq/observatories/) about 45 functioning and 15 failed observatories to assess how a fragmented and conflict of interest fraught industry like music could build an affordable, useful and high quality Music Observatory.
-
-We do not want to build a data observatory alone, and we do not want to own this concept. On the contrary --- we want to be members of Consortium that can build an inclusive data observatory. We believe that the European Music Observatory should help ending the royalty gap between Northwestern and Southeastern Europe, should be inclusive, and equip the European music industry with large enough data to make the promise of closing the value gap a reality.
-
 We are developing our [Demo Music Observatory](project/music-observatory/) in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/). Our aim is to show a better organizational model, examples of research automation and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.
 
 1. [Background](#background)
