@@ -32,7 +32,7 @@ There is various global and national research available on the music discovery d
 
 The music discovery phase is strongly related to the time when most people get their music education: their skills to listen to music, play music or sing, and to compose new music. Investment into music education pays of in later age: people with more diverse music education, for example, with the ability to play music, tend to visit concerts more or discover more music in later life stages.
 
-{{< figure library="true" src="comparative/music_discovery_population.png" title="The annual growth (top chart) and total growth (lower chart) of the 15-24 years-old population in select European countries." >}}
+{{< figure library="true" src="img/comparative/music_discovery_population.png" title="The annual growth (top chart) and total growth (lower chart) of the 15-24 years-old population in select European countries." >}}
 
 For practical reasons and supported by academic research, we chose the age group 15-24 as the key age group for music discovery.  We placed the national population of the music discovery age group in the [Music & Society](https://data.music.dataobservatory.eu/music-society.html#audiences) pillar of the Demo Music Observatory.
 
