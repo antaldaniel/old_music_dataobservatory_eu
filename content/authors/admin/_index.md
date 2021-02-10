@@ -11,7 +11,7 @@ role: co-founder
 # Organizations/Affiliations
 organizations:
 - name: Reprex BV
-  url: "https://dataobservatory.eu/"
+  url: "https://reprex.nl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: We want big data to work for small venues, independent labels, startups, great and undiscovered artists, and lead the way to create a truly inclusive European Music Observatory.
