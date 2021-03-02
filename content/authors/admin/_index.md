@@ -67,11 +67,8 @@ We are developing our [Demo Music Observatory](project/music-observatory/) in th
 1. [Music Economy](https://data.music.dataobservatory.eu/music-economy.html)
 2. [Diversity & Circulation](https://data.music.dataobservatory.eu/music-diversity.html)
 3. [Music & Society](https://data.music.dataobservatory.eu/music-society.html)
-4. [Innovation - innovative data applications](projects.html)
+4. [Innovation - innovative data applications](https://music.dataobservatory.eu/#projects)
 
 We believe that the many of the "missing data" in the _Feasibility Study_ is illusory. `Challenge us`: we may find it for you, and place it among the weekly updated, `freely downloadable`, fully documented indicators. 
 
 Our aim is to show that a better data map, a better organizational model, examples of research automation and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.
-
-
-
