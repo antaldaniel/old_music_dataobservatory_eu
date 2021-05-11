@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Demo Music Observatory
+title: Digital Music Observatory
 
 # Is this the primary user of the site?
 superuser: true
@@ -60,7 +60,9 @@ user_groups:
 - Visitors
 ---
 
-We are developing our [Demo Music Observatory](project/music-observatory/) in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/) following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/). 
+The [Digital Music Observatory](project/music-observatory/)  is a fully automated, open source, open data observatory that links public datasets in order to provide a comprehensive view of the European music industry. The DMO produces key business and policy indicators that enable the growth of music business strategies and national music policies in a way that works both for music lover audiences and the creative enterprises of the sector. 
+
+Its data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/):. 
 
 **The Demo Music Observatory Pillars**: 
 
@@ -69,6 +71,7 @@ We are developing our [Demo Music Observatory](project/music-observatory/) in th
 3. [Music & Society](https://data.music.dataobservatory.eu/music-society.html)
 4. [Innovation - innovative data applications](https://music.dataobservatory.eu/#projects)
 
-We believe that the many of the "missing data" in the _Feasibility Study_ is illusory. `Challenge us`: we may find it for you, and place it among the weekly updated, `freely downloadable`, fully documented indicators. 
+Music is one of the most data-driven service industries where the majority of sales are already made by AI-driven autonomous systems.  The DMO is a fully-functional service that can function as a testing ground of the `European Data Strategy`, showcasing the ways in which the music industry is affected by the problems that the `Digital Services Act` and the `Trustworthy AI` initiatives attempt to regulate. If these policies will work for the European microenterprise-dominated, complex and fragile European music ecosystem, then they are likely to make Europe fit for the digital age. 
+We submit our automated observatory into the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon) challenge.
 
-Our aim is to show that a better data map, a better organizational model, examples of research automation and other data integration innovation that can reduce the budgetary needs of the European Music Observatory by 80-90% and provide far more timely, accurate, and relevant service than most data observatories in Europe.
+Our Product/Market Fit was validated in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/). We are currently developing this project with the help of the [JUMP European Music Market Accelerator](https://www.jumpmusic.eu/fellow2021/automated-music-observatory/) program. 
