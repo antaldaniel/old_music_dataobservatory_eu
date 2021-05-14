@@ -27,6 +27,9 @@ topics:
 
 education:
   courses:
+  - course: MA in Audio Arts, interdisciplinary program with the specializations at the intersection of music and media
+    institution: Syracuse University, Syracuse, NY
+    year: 2019
   - course: MA Musicology
     institution: Comenius University, Bratislava
     year: 2015
@@ -45,6 +48,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/dsemanakova/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1972-1428
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -60,4 +66,4 @@ user_groups:
 - data curators
 ---
 
-Dominika is a musicologist and a music rights management professional. She is working on music diverstiy and circulation issues, and building the Listen Local databases. 
+Dominika is a musicologist and a music rights management professional. She is working on music diversity and circulation issues, and building the Listen Local databases. Her work is particularly important to understand market shares and potential under-representation biases on broadcasting and streaming curation, and inclusion in the re-opening live music sector.
