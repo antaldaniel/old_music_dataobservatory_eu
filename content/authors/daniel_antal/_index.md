@@ -52,6 +52,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/antaldaniel
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/antaldaniel/
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/antaldaniel

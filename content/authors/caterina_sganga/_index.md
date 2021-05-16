@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Contributor, digital strategist and product marketer
+role: Data curator for cultural diversity and data pooling
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
   url: "https://www.santannapisa.it/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a digital strategist and product marketer with a passion for data science, creative industries, and emerging technology.
+bio: I am a legal scholar with an interest in copyright, cultural diversity and access to knowledge, and I work with copyright metadata and open science data.
 
 topics:
 - Copyright
@@ -50,9 +50,16 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/caterinasganga
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-5836-1824
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/wongannette/#
+  link: https://www.linkedin.com/in/caterinasganga/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +75,4 @@ user_groups:
 - data curators
 ---
 
-Caterina is a legal scholar with an interest in copyright, cultural diversity and access to knowledge, which has led her to deal with copyright metadata and open science data. She is curating data for our music observatory to test algorithmic biases against women, minorities and other vulnerable groups in big data. She is also participating in our effort to build a sustainable business model based on governmental (PSI) open data, scientific open data, and various new data pooling methods. 
+Caterina is a legal scholar with an interest in copyright, cultural diversity and access to knowledge, which has led her to deal with copyright metadata and open science data. She is curating data for our music observatory to test algorithmic biases against women, minorities and other vulnerable groups in big data. She is also participating in our effort to build a sustainable business model based on governmental (PSI) open data, scientific open data, and various new data pooling methods.
