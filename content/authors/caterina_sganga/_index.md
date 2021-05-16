@@ -15,8 +15,8 @@ role: Contributor, digital strategist and product marketer
 
 # Organizations/Affiliations
 organizations:
-- name: Twisted Rope
-  url: "https://www.twisted-rope.com/"
+- name: Sant'Anna School of Advanced Studies
+  url: "https://www.santannapisa.it/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a digital strategist and product marketer with a passion for data science, creative industries, and emerging technology.
