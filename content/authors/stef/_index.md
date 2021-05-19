@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Scientist & Ethnomusicologist
+role: Data curator for classical music
 
 # Organizations/Affiliations
 organizations:
@@ -54,7 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- project contributors
+- data curators
 ---
 
-Stef is a (freelance) music professional and musicologist. After finishing his MA Music Studies at the University of Amsterdam on early musicological research in the Indonesian archipelago, he has been working in the field of popular and classical (contemporary) music as an event producer, promotor and musician. As a consultant of Reprex B.V., Stef establishes and maintains contact with organizations and musical institutions in the Netherlands, Flanders and other countries. 
+Stef is a (freelance) music professional and musicologist. After finishing his MA Music Studies at the University of Amsterdam on early musicological research in the Indonesian archipelago, he has been working in the field of popular and classical (contemporary) music as an event producer, promotor and musician. As a consultant of Reprex B.V., Stef helps us building relevant indicators for the classical music scene.
