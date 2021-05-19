@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-[Greendeal Data Observatory on Zenodo](https://zenodo.org/communities/greendeal_observatory/)
+[Digital Muisc Observatory on Zenodo](https://zenodo.org/communities/music_observatory/)
