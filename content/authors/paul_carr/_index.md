@@ -54,7 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- data curators
+- alumni
 ---
 
 Paul Carr is professor in Popular Music Analysis at the University of South Wales. His research interests focus on the areas of musicology, the music industry and pedagogical frameworks for music related education. His most recent publications include an edited collection on *Frank Zappa* (2014), two chapters in *Oxford Handbook of Music and Virtuality* (2016), a monograph on *Sting* (2017), a special edition of the journal *Popular Music History* (Curating and Documenting Local Popular Music Histories, 2020) and *The Bloomsbury Handbook of Rock Music Research* (2020). He is also an experienced performing musician, having toured and recorded with artists as diverse as The James Taylor Quartet and ex Miles Davis saxophonist Bob Berg. His report, The Welsh Music Industries in a Post Covid World, was released in November 2020.

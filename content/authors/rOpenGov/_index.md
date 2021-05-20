@@ -1,37 +1,31 @@
 ---
 # Display name
-title: Annette Wong
-name: Annette Wong
+title: rOpenGov
+name: rOpenGov
 
 # Username (this should match the folder name)
 authors:
-- annette_wong
+- rOpenGov
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
-role: Contributor, digital strategist and product marketer
+role: rOpenGov network
 
 # Organizations/Affiliations
 organizations:
-- name: Twisted Rope
-  url: "https://www.twisted-rope.com/"
+- name: rOpenGov
+  url: "http://ropengov.org"  
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a digital strategist and product marketer with a passion for data science, creative industries, and emerging technology.
+bio: rOpenGov is an international open source developer network for open government data analytics in R.
 
 topics:
-- Data Science
-- Creative Industries
-- Emerging Technology
-
-
-education:
-  courses:
-  - course: BS in Biological Sciences, Pre-Health Concentration. Minor in Pharmacology and Toxicology
-    institution: University at Buffalo
-    year: 2014
+- Statistical programming
+- Open government data analytics
+- Reproducible research
+- Open Science
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -41,9 +35,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: linkedin
+- icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/in/wongannette/#
+  link: https://twitter.com/ropengov
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ropengov
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -56,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- service development team
+- institutional partners
 ---
 
-Annette is a digital strategist and product marketer with experience working with startup tech companies to develop tailored marketing and communication programs to win new business. She is passionate about data science, creative industries, and emerging technology.
+rOpenGov is an international open source developer network for open government data analytics in R and has released various packages for retrieval, refinement, and analysis of open data from statistical authorities over the past decade. The network was formally introduced at the NIPS Machine Learning Open Source Software workshop in 2013, and has now active contributors from multiple countries. The project aims to facilitate the seamless incorporation of open government data into reproducible statistical and probabilistic programming workflows.
