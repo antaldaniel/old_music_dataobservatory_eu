@@ -56,18 +56,6 @@ We want to win an [EU Datathon prize](https://op.europa.eu/en/web/eudatathon) by
 
 We aim to win at least one first prize in the EU Datathon 2021. We are contesting **all three** challenges, which are related to the EU’s official strategic policies for the coming decade.
 
-## Challenge 1: A European Grean Deel
-
-{{< figure src="/media/img/observatory_screenshots/GD_Observatory_opening_page.png" caption="Our Green Deal Data Observatory connects socio-economic and environmental data to help understanding and combating climate change." numbered="true" >}}
-
-Challenge 1: [A European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en), with a particular focus on the [The European Climate Pact](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2323), the [Organic Action Plan](https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming/organic-action-plan_en), and the [New European Bauhaus](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_111), i.e., mitigation strategies.
-
-Climate change and environmental degradation are an existential threat to Europe and the world. To overcome these challenges, the European Union created the European Green Deal strategic plan, which aims to make the EU’s economy sustainable by turning climate and environmental challenges into opportunities and making the transition just and inclusive for all.
-
-Our [Green Deal Data Observatory](http://greendeal.dataobservatory.eu/) is a modern reimagination of existing ‘data observatories’; currently, there are over 70 permanent international data collection and dissemination points. One of our objectives is to understand why the dozens of the EU’s observatories do not use open data and reproducible research. We want to show that open governmental data, open science, and reproducible research can lead to a higher quality and faster data ecosystem that fosters growth for policy, business, and academic data users.
-
-We provide high quality, tidy data through a modern API which enables data flows between public and proprietary databases. We believe that introducing Open Policy Analysis standards with open data, open-source software, and research automation, can help the Green Deal policymaking process. Our collaboration is open for individuals, citizens scientists, research institutes, NGOS, and companies.
-
 ## Challenge 3: A Europe fit for the digital age
 
 {{< figure src="/media/img/observatory_screenshots/dmo_opening_screen.png" caption="Our Digital Music Observatory is not only a demo of the European Music Observatory, but a testing ground for data governance, Digital Servcies Act, and trustworthy AI problems." numbered="true" >}}
@@ -87,7 +75,6 @@ Our Product/Market Fit was validated in the world’s 2nd ranked university-back
 - Challenge 1: [A European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en), with a particular focus on the [The European Climate Pact](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2323), the [Organic Action Plan](https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming/organic-action-plan_en), and the [New European Bauhaus](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_111), i.e., mitigation strategies. Our [Green Deal Data Observatory](http://greendeal.dataobservatory.eu/) is a modern reimagination of existing ‘data observatories’; currently, there are over 70 permanent international data collection and dissemination points. One of our objectives is to understand why the dozens of the EU’s observatories do not use open data and reproducible research. We want to show that open governmental data, open science, and reproducible research can lead to a higher quality and faster data ecosystem that fosters growth for policy, business, and academic data users.
 
 - Challenge 2: [An economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), with a particular focus on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en). Big data and automation create new inequalities and injustices and have the potential to create a jobless growth economy. Our [Economy Data Observatory](https://economy.dataobservatory.eu/) is a fully automated, open source, open data observatory that produces new indicators from open data sources and experimental big data sources, with authoritative copies and a modern API.
-
 
 ## Problem Statement
 
