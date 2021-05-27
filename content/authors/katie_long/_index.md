@@ -59,3 +59,5 @@ user_groups:
 ---
 
 Katie Long is the founder of the Artist Pledge, a learning community dedicated to creating a progressive, generous and transparent music culture. She is a collaboration specialist with an interest in cultivating atmospheres of collective empowerment. She has dedicated her career to creating unlikely bonds and amplifying voices. Born and raised in Texas, she has an affinity for lap steel and screw tapes and is quite taken by the electronic heartbeat of Berlin, where she now resides. She will help us creating datasets that monitor gender, racial and ethnic biases in Europe's music scenes.
+
+The Artist Pledge and the Digital Music Observatory are being developed for wide European use in the [JUMP European Music Market Accelerator](https://www.jumpmusic.eu/fellow2021/the-artist-pledge/) supported by Europe's key showcase festivals and the European Commission.
