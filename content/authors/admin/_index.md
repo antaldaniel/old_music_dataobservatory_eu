@@ -12,6 +12,12 @@ role: co-founder
 organizations:
 - name: Reprex BV
   url: "https://reprex.nl/"
+- name: rOpenGov
+  url: http://ropengov.org/
+- name: JUMP European Music Market Accelerator
+  url: https://www.jumpmusic.eu/fellow2021/automated-music-observatory/
+- name: Yes!Delft AI+Blockchain Validation Lab
+  url: https://www.yesdelft.com/focus-areas/artificial-intelligence/
 
 # Short bio (displayed in user profile at end of posts)
 bio: We want big data to work for small venues, independent labels, startups, great and undiscovered artists, and lead the way to create a truly inclusive European Music Observatory.
@@ -36,12 +42,6 @@ social:
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/dataandlyrics
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/dataandlyrics/
-- icon: keybase
-  icon_pack: fab
-  link: https://keybase.io/team/reprexcommunity
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +72,13 @@ Its data pillars are following the structure laid out in the [Feasibility study 
 4. [Innovation - innovative data applications](https://music.dataobservatory.eu/#projects)
 
 Music is one of the most data-driven service industries where the majority of sales are already made by AI-driven autonomous systems.  The DMO is a fully-functional service that can function as a testing ground of the `European Data Strategy`, showcasing the ways in which the music industry is affected by the problems that the `Digital Services Act` and the `Trustworthy AI` initiatives attempt to regulate. If these policies will work for the European microenterprise-dominated, complex and fragile European music ecosystem, then they are likely to make Europe fit for the digital age. 
-We submit our automated observatory into the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon) challenge.
+
+Our automated observatory participates in the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon) challenge #3. 
+
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/presentations/DMO_Datathon_Submission_2021.pdf" "newtab" >}}introduction{{< /staticref >}}.
 
 Our Product/Market Fit was validated in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/). We are currently developing this project with the help of the [JUMP European Music Market Accelerator](https://www.jumpmusic.eu/fellow2021/automated-music-observatory/) program. 
+
+{{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
+
+{{< icon name="phone" pack="fas" >}} Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}}.
