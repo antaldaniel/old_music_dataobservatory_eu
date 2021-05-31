@@ -28,7 +28,7 @@ topics:
 
 education:
   courses:
-  - course: MA in American History
+  - course: BA in American History
     institution: University of St. Thomas, Houston, Texas 
     year: 2007
 

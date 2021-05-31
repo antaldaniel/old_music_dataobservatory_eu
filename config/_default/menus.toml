@@ -29,7 +29,7 @@
   weight = 40
 
 [[main]]
-  name = "Music Economy"
+  name = "Economy"
   url = "http://data.music.dataobservatory.eu/music-economy.html"
   weight = 50
 
@@ -42,6 +42,12 @@
   name = "Society"
   url = "http://data.music.dataobservatory.eu/music-society.html"
   weight = 52
+
+  [[main]]
+  name = "Data API"
+  url = "http://api.music.dataobservatory.eu/"
+  weight = 55
+
 [[main]]
   name = "Contact"
   url = "#contact"
