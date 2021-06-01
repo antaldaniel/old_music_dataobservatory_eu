@@ -45,7 +45,7 @@ Our API can be found temporarily on [api.music.dataobservatory.eu](http://api.mu
 
 The indicator table contains the actual values, and the various estimated/imputed values of the indicator, clearly marking missing values, too.
 
-{{< figure src="/media/img/observatory_screenshots/GDO_API_indicator_table.png" caption="api.music.dataobservatory.eu: indicator retrieval" numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/DMO_API_indicator_table.png" caption="api.music.dataobservatory.eu: indicator retrieval" numbered="true" >}}
 
 You can get the data in [CSV](http://api.music.dataobservatory.eu/database/indicator.csv?_size=max) or [json](http://api.music.dataobservatory.eu/database/indicator.json) format, or write SQL querries. (Tutorials in SQL, R, Python will be posted shortly.)
 
@@ -53,16 +53,16 @@ You can get the data in [CSV](http://api.music.dataobservatory.eu/database/indic
 
 The [description table](http://api.music.dataobservatory.eu/database/description) contains the actual values, and the various estimated/imputed values of the indicator, clearly marking missing values, too. 
 
-{{< figure src="/media/img/observatory_screenshots/GDO_API_indicator_table.png" caption="api.music.dataobservatory.eu: descriptive metadata" numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/DMO_API_indicator_table.png" caption="api.music.dataobservatory.eu: descriptive metadata" numbered="true" >}}
 
 ## Labelling table {#labelling-table}
 
 The [labelling table](http://api.music.dataobservatory.eu/database/labelling) contains the way we have handled labels, codes and unit information from the original source. One of the reasons why open data is so hard to use for analysts is the many measurement unit and currencly translations that needs to be made when downloading them from an often not well-documented source. Our API contains data that is ready to be joined with your data, or our other indicators, because these unit and currency translations are made consistently and explicitly.
 
-{{< figure src="/media/img/observatory_screenshots/GDO_API_labelling_table.png" caption="api.music.dataobservatory.eu: labelling and unit information" numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/DMO_API_labelling_table.png" caption="api.music.dataobservatory.eu: labelling and unit information" numbered="true" >}}
 
 ## Processing Metadata table {#metadata-table}
 
 The [metadata table](http://api.music.dataobservatory.eu/database/metadata) contains various data processing information, such as the first and last actual observation of the indicator, the number of approximated, forecasted, backcasted values, last update at source and in our system, and so on. 
 
-{{< figure src="/media/img/observatory_screenshots/GDO_API_metadata_table.png" caption="api.music.dataobservatory.eu: processing metadata" numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/DMO_API_metadata_table.png" caption="api.music.dataobservatory.eu: processing metadata" numbered="true" >}}
