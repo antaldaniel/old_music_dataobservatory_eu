@@ -38,7 +38,7 @@ In the EU, open data is governed by the [Directive on open data and the re-use o
 
 - Open data is often untapped and provides you competitive advantage in scientific research or market intellgience. Most open data is not publicy accessible, and available upon request.
 - Most European open data comes from tax authorities, meteorological offices, managers of transport infrastructure, and other governmental bodies whose data needs are very different from yours.  Their data must be carefully evaluated, re-processed, and if necessary, imputed to be usable for your scientific, business or policy goals.
-- The use of open science data is problematic in different ways: usually understanding the data documentation requires domain-specific specialist knowledge.  Open science data is even more scattered and difficult to access than technically open, but not public governmental data.
+- The use of open science data is problematic in different ways: usually understanding the data documentation requires domain-specific specialist knowledge.  [Open science data](https://music.dataobservatory.eu/data/open-science/) is even more scattered and difficult to access than technically open, but not public governmental data.
 
 ## Why Downloading Does Not Work?
 
@@ -51,7 +51,6 @@ In the EU, open data is governed by the [Directive on open data and the re-use o
 
 - Most public and open data sources have many missing observations; machine learning models usually cannot hanlde missingness. These points must be carefully imputed with approximations, which can be very challenging when the data has geographical dimension.
 - Removing missing values makes samples extremely biased and your model will learn from omissions, not information.
-
 
 ## How We Add Value?
 
