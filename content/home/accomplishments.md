@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "EU Datathon 2021 Challenge #3"
+  organization_url = "post/2021-05-21-eu-datathon-2021/"
+  title = "https://music.dataobservatory.eu/post/2021-05-21-eu-datathon-2021/"
+  url = "post/2021-05-21-eu-datathon-2021/"
+  date_start = "2021-05-21"
+  date_end = ""
+  description = ""
+
+
+[[item]]
+  organization = "JUMP European Music Market Accelerator"
+  organization_url = "https://www.jumpmusic.eu/"
+  title = "Our Music Observatory in the Jump European Music Market Accelerator"
+  url = "post/2021-03-04-jump-2021/"
+  date_start = "2021-03-04"
+  date_end = ""
+  description = ""
+
+
+[[item]]
   organization = "Yes!Delft AI Lab"
   organization_url = "post/2020-09-25-yesdelft-validation/"
   title = "Product/Market Fit Validation in Yes!Delft"

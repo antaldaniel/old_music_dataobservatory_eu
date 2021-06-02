@@ -1,6 +1,6 @@
 +++
 title = "The Digital Music Observatory is Contesting the EU Datathon 2021 Prize"
-subtitle = "Reprex and Open Collaboration Partners are Contesting all Three Challenges of the Eu Datathon 2021 Prize"
+subtitle = "Reprex and Open Collaboration Partners are Contesting all Three Challenges of the EU Datathon 2021 Prize"
 date = 2021-05-21T20:00:00
 lastmod = 2021-05-26T15:00:00
 draft = false
