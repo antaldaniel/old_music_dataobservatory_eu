@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Contributors of the Digital Music Observatory"
-subtitle = "Contributors of open data, open-source software, maps, organization and public relations"
+subtitle = "Join our open collaboration team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team)."
 
 [content]
   # Choose which groups/teams of users to display.
