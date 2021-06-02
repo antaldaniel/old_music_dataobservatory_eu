@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Data & Lyrics Blog"
-  url = "https://dataandlyrics.com/"
+  name = "Blog"
+  url = "#posts"
   weight = 20
 
 [[main]]
