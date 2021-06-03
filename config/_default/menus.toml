@@ -45,7 +45,7 @@
 
   [[main]]
   name = "Data API"
-  url = "http://api.music.dataobservatory.eu/"
+  url = "#data"
   weight = 55
 
 [[main]]
