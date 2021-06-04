@@ -48,5 +48,5 @@ I think a data breakthrough is just happening and following the recent evolution
 {{< figure src="/media/publications/listen_local_SK_EN.png" caption="Our Feasibility Study for promoting a small language repertoire in radio and streaming." numbered="true" >}}
 
 
-
+*Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in environmental impact analysis? Try our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*
 

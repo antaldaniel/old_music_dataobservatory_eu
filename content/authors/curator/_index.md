@@ -87,6 +87,11 @@ user_groups:
 
 - Give users at least one social media account where they can get in touch with you (any of LinkedIn, Twitter, Academia, SSRN, Google Scholar, or even Facebook.)
 
+- Please, follow us on social media, it really helps us finding new users and showing that we are able to grow our ecosystem.
+  - [Green Deal Data Observatory on Linkedin](https://www.linkedin.com/company/78556699) and [Green Deal Data Observatory on Twitter](https://twitter.com/GreenDealObs)
+  - [Economy Data Observatory on Linkedin](https://www.linkedin.com/company/78562153) and [Economy Data Observatory on Twitter](https://twitter.com/GreenDealObs)
+  - [Digital Music Data Observatory on Linkedin](https://www.linkedin.com/company/reprexbv/) and [Digital Music Data Observatory on Twitter](https://twitter.com/dataandlyrics)
+
 - If you write code in R or Python, connect to us via Github. 
 
 - If you feel you need chatting on onboarding, contact us on [Keybase](https://curators.dataobservatory.eu/tools.html#keybase) - it's lightweight, discrete, encrypted, your mother, partner and friends are not there, it is free, open source, and can share/exchange files, too. Otherwise in email.

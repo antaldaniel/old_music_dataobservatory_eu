@@ -62,7 +62,7 @@ user_groups:
 
 The [Digital Music Observatory](project/music-observatory/)  is a fully automated, open source, open data observatory that links public datasets in order to provide a comprehensive view of the European music industry. The DMO produces key business and policy indicators that enable the growth of music business strategies and national music policies in a way that works both for music lover audiences and the creative enterprises of the sector. 
 
-Its data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/):. 
+Its data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/). 
 
 **The Demo Music Observatory Pillars**: 
 

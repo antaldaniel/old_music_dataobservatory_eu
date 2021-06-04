@@ -16,7 +16,7 @@ role: Music Economy & Innovation data curator
 # Organizations/Affiliations
 organizations:
 - name: University of East Anglia
-  url: "https://soza.sk/"
+  url: "https://www.uea.ac.uk/about/norwich-business-school"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a competition economist and legal scholar with an interest in the music economy.
