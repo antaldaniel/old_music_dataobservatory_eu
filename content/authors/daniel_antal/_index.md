@@ -34,7 +34,7 @@ education:
   - course: M.Sc. Economic Regulation and Competition Policy
     institution: City University
     year: 2002
-  - course: M.Sc. Economics, major: Actuary Science, minor: Economic Decision (Applie Operational Research)
+  - course: M.Sc. Economics, major Actuary Science and minor Economic Decisions (Applied Operational Research)
     institution: Budapest Corvinus University
     year: 2001
 
