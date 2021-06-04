@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "News"
-subtitle = "Demo Music Observatory highlights from our blog"
+subtitle = "Demo Music Observatory highlights from Data & Lyrics"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -67,4 +67,4 @@ subtitle = "Demo Music Observatory highlights from our blog"
  css_class = ""
 +++
 
-For our daily blog, please visit [Data & Lyrics](https://dataandlyrics.com/post/)
+For our more comprehensive blog, please visit [Data & Lyrics](https://dataandlyrics.com/post/)

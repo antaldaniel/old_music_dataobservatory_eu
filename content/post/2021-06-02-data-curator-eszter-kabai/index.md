@@ -16,14 +16,14 @@ projects = ["eu-datathon_2021"]
 # Featured image
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "[Eszter Kabai](/author/eszter-kabai/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 
 +++
 
