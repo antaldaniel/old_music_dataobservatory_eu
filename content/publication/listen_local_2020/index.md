@@ -73,7 +73,7 @@ And at last, radio is losing its importance in music discovery. New generation f
 **Our Feasibility Study follows the following logic:**
 In the first chapter we introduce various music recommendation systems in the context of local content promotion polices, like local mandatory content quota regulations.
 
-{{< figure src="/img/streaming/mind_map_recommendations.jpg" caption="We aimed to create a demo version of a utility-based, transparent, accountable recommendation system." numbered="true" >}}
+{{< figure src="/media/img/streaming/mind_map_recommendations.jpg" caption="We aimed to create a demo version of a utility-based, transparent, accountable recommendation system." numbered="true" >}}
 
 In the second chapter, we consider the market-based or creative industry economy supporting policy goals, measurements, and potential support given to artists and producers.
 
@@ -85,7 +85,7 @@ The project website contains the [Demo Slovak Music Database](https://listenloca
 
 We also created a [Demo Recommendation System](https://listenlocal.community/project/demo-app/). We explain here [why](https://listenlocal.community/post/2020-11-23-alternative-recommendations/).
 
-{{< figure src="/img/streaming/listen_local_app_1.png" caption="Screenshot of the first verison of the demo app." numbered="true" >}}
+{{< figure src="/media/img/streaming/listen_local_app_1.png" caption="Screenshot of the first verison of the demo app." numbered="true" >}}
 
 ## Research questions
 
