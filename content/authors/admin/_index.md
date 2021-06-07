@@ -38,7 +38,7 @@ social:
   link: https://www.linkedin.com/company/reprexbv/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/dataandlyrics
+  link: https://twitter.com/DigitalMusicObs
 - icon: facebook
   icon_pack: fab
   link: https://facebook.com/dataandlyrics
