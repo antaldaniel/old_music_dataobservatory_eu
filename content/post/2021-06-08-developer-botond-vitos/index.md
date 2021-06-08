@@ -40,6 +40,8 @@ In addition, working with Reprex, I became involved in the development of the Li
 **In an ideal data world, what would be the ultimate dataset or datasets that you would like to see in the Digital Music Observatory?**
 
 As my answer to the previous question suggests, my main concern is the development of a trustworthy AI framework. Acknowledging the national and cultural diversity of the European Union, it is essential to enable access to data that takes into account such diversities and the priorities of smaller stakeholders as well. This type of data needs to be comprehensive and well-maintained, and I believe that with curators' priorities and the development of an easily accessible, open API, we are moving in the right direction.
+
+{{< figure src="/media/img/listen_local_screenshots/Youniverse_energy.png" caption="See the first version nof the [API](/post/2021-04-27-smdb/) can help detecting small country and gender biasis in algorithms. See our blogpost on [what can go wrong with recommendations](post/2021-05-16-recommendation-outcomes/)." numbered="true" >}}
  
 ## Read More on Data & Lyrics
 
