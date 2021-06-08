@@ -3,13 +3,13 @@ title = "We Need More Reliable Datasets on the Urban Heat Resilience and Disaste
 subtitle = "Introducing Our Service Development Team"
 date = 2021-06-07T20:00:00
 lastmod = 2021-06-07T20:00:00
-draft = true
+draft = false
 
 authors = ["suzan_sidal"]
 
 tags = ["open-data", "open-science", "reproducible research", "open government", "Eurovision", "musicology"]
 
-summary = "I would like to see more data on the consequences and impact of increasing drought and urban heat in our cities in the Green Deal Data Observatory. Because of the complexity of rapidly developing metropolitan regions and the uncertainty associated with climate change, we should explore more climate change adaptation and mitigation activities, or disaster risk reduction, not only climate change itself."
+summary = "I would like to see more data on the consequences and impact of increasing drought and urban heat in our cities in the Green Deal Data Observatory. Because of the complexity of rapidly developing metropolitan regions and the uncertainty associated with climate change, we need to explore more climate change adaptation and mitigation activities, or disaster risk reduction, not only climate change itself."
 
 projects = ["eu-datathon_2021"]
 
