@@ -1,5 +1,5 @@
 +++
-title = "We Need More Reliable Datasets on the Urban Heat Resilience and Disaster Risk Reduction"
+title = "Our Datasets Should be Retrieved Cleaned and Assessed in Order to Deliver Efficient Relevant and Credible Information"
 subtitle = "Introducing Our Service Development Team"
 date = 2021-06-07T20:00:00
 lastmod = 2021-06-07T20:00:00
@@ -9,7 +9,7 @@ authors = ["suzan_sidal"]
 
 tags = ["open-data", "open-science", "reproducible research", "business case", "urban heat", "climate change mitigation"]
 
-summary = "I would like to see more data on the consequences and impact of increasing drought and urban heat in our cities in the Green Deal Data Observatory. Because of the complexity of rapidly developing metropolitan regions and the uncertainty associated with climate change, we need to explore more climate change adaptation and mitigation activities, or disaster risk reduction, not only climate change itself."
+summary = "Facilitating private-public partnerships is one step to encourage the data community to work with valuable open data. However, transparency and a high level quality assurance step must be given. In a joint collaboration with data curators, developers, technical specialists and academics, the datasets should be retrieved, cleaned and assessed in order to deliver efficient, relevant and credible information. The constant monitoring and regulation as well as compliance with data security guidelines are indispensable."
 
 projects = ["eu-datathon_2021"]
 
@@ -26,8 +26,6 @@ projects = ["eu-datathon_2021"]
   preview_only = false
 
 +++
-
-*Suzan Sidal is working in the service design team on validating user needs and building a sustainable business model for our observatory.*
 
 **As a consultant, what type of data do you usually use in your work at ECORYS?**
 
@@ -55,7 +53,7 @@ The access and analysis of open data for the general public would make political
 
 Climate change is increasing people's exposure to heat. Extreme temperature events have been documented to be rising in frequency, duration, and magnitude over the world. The number of persons exposed to heatwaves grew by roughly 125 million between 2000 and 2016.
 
-{{< figure src="/media/img/blogpost_2021/photo-1618677064524-58aa3077d724.jpg" caption="Sydney by Marek Piwnicki [Unplash License](https://unsplash.com/license)" numbered="true" >}}
+{{< figure src="/media/img/blogposts_2021/photo-1618677064524-58aa3077d724.jpg" caption="Sydney by Marek Piwnicki [Unplash License](https://unsplash.com/license)" numbered="true" >}}
 
 **From your experience, what do you think the greatest problem with open data in 2021 will be?**
 
@@ -68,10 +66,10 @@ The use of open data should be transparent and meet high quality standards. If w
 
 Almost nothing is being done to help communities build the capability to analyze and implement open data without relying on technology. 
 
-{{< figure src="/media/img/observatory_screenshot/DMO_API_metadata_page.png" caption="Our API contains rich processing and descriptive metadata besides our high-quality indicators." numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/EDO_API_metadata_table.png" caption="Our API contains rich processing and descriptive metadata besides our high-quality indicators." numbered="true" >}}
 
 This is a critical task that the our fledlging data Observatories, the [Digital Music Observatory](https://music.dataobservatory.eu/),  [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/) and [Economy Data Observatory](https://economy.dataobservatory.eu/), may be able to help with. Facilitating private-public partnerships is one step to encourage the data community to work with valuable open data. However, transparency and a high level quality assurance step must be given. In a joint collaboration with data curators, developers, technical specialists and academics, the datasets should be retrieved, cleaned and assessed in order to deliver efficient, relevant and credible information. The constant monitoring and regulation as well as compliance with data security guidelines are indispensable. 
 
 ## Join us
 
-*Join our open collaboration Music Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in antitrust, innovation policy or economic impact analysis? Try our [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in climate change, mitigation or climate action? Check out our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team!*
+*Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in environmental impact analysis? Try our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*

@@ -3,7 +3,7 @@ title = "We Want Machine Learning Algorithms to Learn More About Slovak Music"
 subtitle = "Introducing Our Data Curators"
 date = 2021-06-08T08:00:00
 lastmod = 2021-06-08T08:00:00
-draft = true
+draft = false
 
 authors = ["dominika_semanakova"]
 
@@ -72,7 +72,7 @@ Cultural policy makers or education policymakers may want to promote the values 
 
 In many European countries, education policies target young people to feel at home in the creative processes of their own culture. This is also the key to generate higher value-added jobs in culture, and to combat the effect of robotization, particularly in manufacturing industries such as car manufacturing or some mass retail services like banking. Competition authorities may also be concerned if a media platform or other entity uses its vertical power in the value chain to monopolize the end-market in radios or streaming platforms successfully and increase/decrease the competitiveness of certain types of music.
 
-## Join us {#join-our-automated-observatories}
+## Join us
 
 *Join our open collaboration Music Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in antitrust, innovation policy or economic impact analysis? Try our [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in climate change, mitigation or climate action? Check out our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team!*
 
