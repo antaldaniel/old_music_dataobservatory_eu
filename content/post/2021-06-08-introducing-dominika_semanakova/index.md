@@ -57,7 +57,7 @@ We eventually created two parts: in the opt-in, opt-out process, the artists fre
 
 The original problem behind the Listen Local and the Feasibility study was a new law in Slovakia, which aims to promote “Slovak music” in the radio stations of the Slovak Republic. Many countries have such legislation in place, and they pose a lot of very difficult questions. What makes music Slovak? The artist who writes it or performs it? The place of release if it is recorded? The language of the lyrics? Some special music vibes? 
 
-{{< figure src="/media/img/publications/listen_local_SK_EN.png" caption="See our trustworthy AI-driven music export case study for [Slovakia](https://music.dataobservatory.eu/publication/listen_local_2020/)" numbered="true" >}}
+{{< figure src="/media/img/streaming/listen_local_SK_EN.png" caption="See our trustworthy AI-driven music export case study for [Slovakia](https://music.dataobservatory.eu/publication/listen_local_2020/)" numbered="true" >}}
 
 
 And of course, how do we measure compliance with any mandatory targets set to reach a certain ‘ratio of Slovak content’?  We have shown that if we want to set market share targets, or we want to measure algorithmic biases; first we have to be able to define what we really want when we want more “Slovak music” in radio programs or streaming playlists.
