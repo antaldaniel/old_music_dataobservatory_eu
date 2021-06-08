@@ -49,7 +49,7 @@ The second step was to collect biographies of Czech, Slovak, and Czechoslovakian
 
 From a modern ethnomusicological point of view, defining “Slovakness” may seem elusive, but it is a very practical first step from a policy and regulatory point of view. If the legislation puts a mandatory “Slovak” radio quota in place, somebody has to know which music is “Slovak” and which is not.  Much of the data required to answer these questions is protected by GDPR data protection rules. For example, were they born in the territory of present Slovakia?  Do they live in Slovakia? Did they die in Slovakia?  The developer team used the Google Translate API to figure out if the Slovak language was used in the titles of the popular songs of these artists.
 
-{{< figure src="/media/img/streaming/listen_local_app.png" caption="See the first version nof the [API](https://dataandlyrics.com/post/2021-04-27-smdb/) can help detecting small country and gender biasis in algorithms." numbered="true" >}}
+{{< figure src="/media/img/listen_local_screenshots/Youniverse_energy.png" caption="See the first version nof the [API](https://dataandlyrics.com/post/2021-04-27-smdb/) can help detecting small country and gender biasis in algorithms." numbered="true" >}}
 
 We eventually created two parts: in the opt-in, opt-out process, the artists freely choose their identity.  In the write-in process, where there is also an opt-out possibility for living artists, eventually, musicologists will have to decide whom the public, biographers, legislators subjectively believe to be Slovak. Eventually, as a Slovak musicologist and native speaker, I manually checked all entries of our demo database and tried to use my best intuition.
 
