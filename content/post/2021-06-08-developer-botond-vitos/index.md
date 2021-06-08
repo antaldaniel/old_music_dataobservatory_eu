@@ -9,7 +9,7 @@ authors = ["botond_vitos"]
 
 tags = ["open-data", "open-science", "trustworthy AI","listen-local", "musicology", "Bandcamp"]
 
-summary = "New summary needed"
+summary = "I believe that with curators' priorities and the development of an easily accessible, open API, we are moving in the right direction."
 
 projects = ["eu-datathon_2021", "listen-local"]
 

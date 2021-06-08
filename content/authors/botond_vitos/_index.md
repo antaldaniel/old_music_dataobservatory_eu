@@ -65,4 +65,4 @@ user_groups:
 - developers
 ---
 
-Botond is a data scientist and cultural studies scholar with an interest in digital humanities, music research and festival cultures. His past projects were focused on grassroots music scenes and alternative communities, and he is currently contributing to the development of our Demo Music Observatory and Listen Local initiatives. He is the production editor and art director of the peer reviewed journal Dancecult. He is taking care of our Data APIs and "big data" collection.
+Botond is a data scientist and cultural studies scholar with an interest in digital humanities, music research and festival cultures. His past projects were focused on grassroots music scenes and alternative communities, and he is currently contributing to the development of our Demo Music Observatory and Listen Local initiatives. He is the production editor and art director of the peer reviewed journal Dancecult. He is taking care of our Data APIs and "big data" collection.  Read his introdcution [here](/post/2021-06-08-developer-botond-vitos/).

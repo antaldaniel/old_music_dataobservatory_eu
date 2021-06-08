@@ -76,4 +76,4 @@ user_groups:
 - data curators
 ---
 
-Peter is a competition economist and legal scholar, and an expert on innovation with an interest in the music industry, particularly streaming.  He is curating data sets for our observatory particularly in the Diversity & Circulation and the Innovation pillars, which may help detecting biases against small organizations, small country repertoires, or vulnerable artist groups in the global competition.
+Peter is a competition economist and legal scholar, and an expert on innovation with an interest in the music industry, particularly streaming.  He is curating data sets for our observatory particularly in the Diversity & Circulation and the Innovation pillars, which may help detecting biases against small organizations, small country repertoires, or vulnerable artist groups in the global competition. Read his introduction [here](https://economy.dataobservatory.eu/post/2021-06-02-data-curator-peter-ormosi/).
