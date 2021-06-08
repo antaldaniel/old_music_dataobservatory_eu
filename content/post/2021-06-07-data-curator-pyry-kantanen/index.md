@@ -27,6 +27,8 @@ projects = ["eu-datathon_2021", "listen-local"]
 
 +++
 
+*Pyry Kantanen is mainly involved with our statistical software development and testing.*
+
 **As a developer at rOpenGov, and as an economic sociologist, what type of data do you usually use in your work?**
 
 Generally speaking, people's access to (or inequalities in accessing) different types of resources and their ability in transforming these resources to other types of resources is what interests me. The data I usually work with is the kind of data that is actually nicely covered by existing [rOpenGov tools](http://ropengov.org/projects/): data about population demographics and administrative units from Statistics Finland, statistical information on welfare and health from Sotkanet and also data from Eurostat. Aside from these a lot of information is of course data from surveys and texts scraped from the internet.
@@ -47,4 +49,4 @@ The challenge has, in my opinion, great potential in leading by example when it 
 
 ## Join us
 
-*Join our open collaboration Music Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in antitrust, innovation policy or economic impact analysis? Try our [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in climate change, mitigation or climate action? Check out our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team!*
+*Join our open collaboration Green Deal Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in antitrust, innovation policy or economic impact analysis? Try our [Economy Data Observatory](https://economy.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*
