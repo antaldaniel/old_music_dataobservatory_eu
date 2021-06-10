@@ -57,7 +57,7 @@ I believe that people, in general, appreciate and understand the importance of d
 
 However, I feel more people are open to the idea of using data and understand the value of leveraging data to share objective truths. Something that our automated data observatories can do is to provide more opportunities to educate and train data admirers that data is not scary, that it is accessible, and it is here to help uncover insights that can’t be immediately seen.
 
-{{< figure src="/media/img/observatory_screenshots/edo_and_zenodo.png" caption="Join our open collaboration Digital Music Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Digital Music Observatory on Zenodo](https://zenodo.org/communities/music_observatory/)" numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/dmo_and_zenodo.png" caption="Join our open collaboration Digital Music Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Digital Music Observatory on Zenodo](https://zenodo.org/communities/music_observatory/)" numbered="true" >}}
 
 ## Join us
 

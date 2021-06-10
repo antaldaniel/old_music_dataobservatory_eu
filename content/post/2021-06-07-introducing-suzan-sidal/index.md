@@ -66,9 +66,11 @@ The use of open data should be transparent and meet high quality standards. If w
 
 Almost nothing is being done to help communities build the capability to analyze and implement open data without relying on technology. 
 
-{{< figure src="/media/img/observatory_screenshots/EDO_API_metadata_table.png" caption="Our API contains rich processing and descriptive metadata besides our high-quality indicators." numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/DMO_API_metadata_page.png" caption="Our API contains rich processing and descriptive metadata besides our high-quality indicators." numbered="true" >}}
 
 This is a critical task that the our fledlging data Observatories, the [Digital Music Observatory](https://music.dataobservatory.eu/),  [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/) and [Economy Data Observatory](https://economy.dataobservatory.eu/), may be able to help with. Facilitating private-public partnerships is one step to encourage the data community to work with valuable open data. However, transparency and a high level quality assurance step must be given. In a joint collaboration with data curators, developers, technical specialists and academics, the datasets should be retrieved, cleaned and assessed in order to deliver efficient, relevant and credible information. The constant monitoring and regulation as well as compliance with data security guidelines are indispensable. 
+
+{{< figure src="/media/img/observatory_screenshots/dmo_and_zenodo.png" caption="Join our open collaboration Digital Music Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team), or share your data in our public repository [Digital Music Observatory on Zenodo](https://zenodo.org/communities/music_observatory/)" numbered="true" >}}
 
 ## Join us
 
