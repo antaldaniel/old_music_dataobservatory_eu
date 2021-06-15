@@ -40,8 +40,6 @@ Our database in its early demo form analysed only the Spotify presence of artist
 
 We created a modern API to access the database for researchers, labels, and representative music organizations. The API works with standard SQL queries (see full documentation [here](https://docs.datasette.io/en/latest/getting_started.html)), but also allows intuitive filters for manual use.  
 
-
-
 For example, our [Feasibility Study](https://listenlocal.community/publication/listen_local_2020/) contains a small case study with The Youniverse, and [Tammy Nižňanska](https://dataandlyrics.com/post/2020-11-30-youniverse/) gave us an interview to form our ideas, together with [Katarzia](https://dataandlyrics.com/post/2020-11-25-katarzia/).  
 
 **How much more danceable are The Youniverse than an average Slovak band?** [try it out](http://3.221.117.58/listen-local?sql=select%28%0D%0A%28select+avg%28danceability%29+as+%5BThe+Youniverse+-+Danceability%5D+from+%22spotify-top-tracks%22+where+spotify_artist_name+%3D+%22The+Youniverse%22+%29+%2F%0D%0A%28select+avg%28danceability%29+as+%5BAverage+Danceability%5D+from+%22spotify-top-tracks%22%29+-+1%0D%0A%29*100+as+percent%0D%0A%0D%0A)

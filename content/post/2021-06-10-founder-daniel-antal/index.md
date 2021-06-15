@@ -16,7 +16,7 @@ projects = ["eu-datathon_2021"]
 # Featured image
 [image]
   # Caption (optional)
-  caption = "Annette Wong"
+  caption = "Daniel Antal"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -66,7 +66,7 @@ I have been involved with open data policies since 2004. The problem has not cha
 {{< figure src="/media/img/observatory_screenshots/DMO_API_metadata_page.png" caption="Our [API](/#data) is not only publishing descriptive and processing metadata alongside with our data, but we also make all critical elements of our processing code available for peer-review on [rOpenGov](/authors/ropengov/)" numbered="true" >}}
 
  
-**What do you think the Green Deal Data Observatory, and our other automated observatories do, to make open data more credible in the European economic policy community and be accepted as verified information?**
+**What do you think the Digital Music Observatory, and our other automated observatories do, to make open data more credible in the European economic policy community and be accepted as verified information?**
  
 Most of our work is in research automation, and a very large part of our efforts are aiming to reverse engineer missing descriptive and processing metadata. In a way, I like to compare ourselves to the working method of the open-source intelligence platform [Bellingcat](https://www.bellingcat.com). They were able to use publicly available, [scattered information from satellites and social media](https://www.bellingcat.com/category/resources/case-studies/?fwp_tags=mh17) to identify each member of the Russian military company that illegally entered the territory of Ukraine and shot down the Malaysian Airways MH17 with 297, mainly Dutch, civilians on board. 
 
