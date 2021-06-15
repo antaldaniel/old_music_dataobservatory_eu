@@ -65,4 +65,4 @@ user_groups:
 - data curators
 ---
 
-Hyojung is a research associate at the Ulster University and an investigator in the [Music Creators’ Earnings in the Streaming Era](https://digit-research.org/research/related-projects/music-creators-earnings-in-the-streaming-era/) research project. 
+Hyojung is a research associate at the Ulster University and an investigator in the [Music Creators’ Earnings in the Streaming Era](https://digit-research.org/research/related-projects/music-creators-earnings-in-the-streaming-era/) research project, a project which will make its research data reproducible, and that uses our Digital Music Observatory's music streaming data. 
