@@ -58,9 +58,18 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/antaldaniel/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=Is3IOGEAAAAJ&hl=en
+- icon: ssrn
+  icon_pack: ai
+  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2472686
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/antaldaniel
+  
+
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
