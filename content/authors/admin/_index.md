@@ -35,7 +35,7 @@ social:
   link: https://github.com/dataobservatory-eu
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/company/reprexbv/
+  link: https://www.linkedin.com/company/79286750/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DigitalMusicObs
