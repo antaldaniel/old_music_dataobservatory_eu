@@ -1,15 +1,15 @@
 +++
 title = "Music Creators’ Earnings in the Streaming Era"
 subtitle = "United Kingdom Research Cooperation With the Digital Music Observatory"
-date = 2021-06-17T12:00:00
-lastmod = 2021-06-17T12:00:00
+date = 2021-06-18T08:00:00
+lastmod = 2021-06-18T08:00:00
 draft = true
 
 authors = ["daniel_antal"]
 
 tags = ["open-data", "open-science", "regional data","valuation", "United Kingdom"]
 
-summary = "Stating that the greatest difference among rightsholders’ earnings is related to the popularity of their works and recorded fixations can appear banal and trivial. Yet, because many payout problems appear in the"
+summary = "Our Digital Music Observatory contributes to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context."
 
 projects = ["eu-datathon_2021"]
 
@@ -80,7 +80,7 @@ _Equitable remuneration_ is a legal concept which has an economic aspect. In int
 
 While the word equitable in everyday usage often implies some level of equality and solidarity, in the context of royalty payments, these terms should not be mixed. 
 
-{{< figure src="/media/img/reports/mce/difficulty_bills_levels.jpg" caption="[Digital Music Observatory](https://music.dataobservatory.eu/) uses harmonized, anonimous surveys conducted among musicians to find out about their living conditions compared to their peers in other countries, and people in other professions." numbered="true" >}}
+{{< figure src="/media/img/comparative/difficulty_bills_levels.jpg" caption="[Digital Music Observatory](https://music.dataobservatory.eu/) uses harmonized, anonimous surveys conducted among musicians to find out about their living conditions compared to their peers in other countries, and people in other professions." numbered="true" >}}
 
 Solidarity is present in many royalty payout schemes, but it is unrelated to the legal concept of equitable remuneration. Music earnings are very heavily skewed towards a small number of very successful composers, performers, and producers. The music streaming licensing model has little elements of solidarity, unlike some of the licensing models that it is replacing–particularly public performance licensing. However, in those cases, the solidarity element is decided by the rightsholders themselves, and not by external parties like radio broadcasters or streaming service providers. 
 
@@ -106,11 +106,3 @@ The current streaming licensing model in Europe is a mix of mechanical and publi
 *Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in environmental impact analysis? Try our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*
 
 ## Footnote References
-
-Antal, Daniel. 2021. “Launching Our Demo Music Observatory.” _Data & Lyrics_. Reprex. [https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/](https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/).
-
-Artisjus, HDS, SOZA, and Candole Partners. 2014. “Measuring and Reporting Regional Economic Value Added, National Income and Employment by the Music Industry in a Creative Industries Perspective. Memorandum of Understanding to Create a Regional Music Database to Support Professional National Reporting, Economic Valuation and a Regional Music Study.”
-
-Gray, Tom. 2020. “#BrokenRecord Campaign Submission (Supplementary to Oral Evidence).” UK Parliament website. [https://committees.parliament.uk/writtenevidence/15512/html/](https://committees.parliament.uk/writtenevidence/15512/html/).
-
-state51 Music Group. 2020. “Written Evidence Submitted by The state51 Music Group. Economics of Music Streaming Review. Response to Call for Evidence.” UK Parliament website. [https://committees.parliament.uk/writtenevidence/15422/html/](https://committees.parliament.uk/writtenevidence/15422/html/).
