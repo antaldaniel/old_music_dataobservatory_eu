@@ -206,4 +206,4 @@ Vatsa
 
 A key mission of our [Digital Music Observatory](https://music.dataobservatory.eu/), which is our modern, subjective approach on how the future European Music Observatory should look like, is to not only to provide high-quality data on the music economy, the diversity of music, and the audience of music, but also on metadata.  The quality and availability, interoperability of metadata (information about how the data should be used) is key to build trustworthy AI systems. We rely on [spotifyr](https://github.com/charlie86/spotifyr) to fulfil this mission.
 
-*Join our open collaboration Music Data Observatory team as a [data curator](https://music.dataobservatory.eu/authors/curator), [developer](https://music.dataobservatory.eu/authors/developer) or [business developer](https://music.dataobservatory.eu/authors/team).*
+*Join our open collaboration Music Data Observatory team as a [data curator](https://music.dataobservatory.eu/author/new-curators/), [developer](https://music.dataobservatory.eu/author/new-developers/) or [business developer](https://music.dataobservatory.eu/author/observatory-business-associate/).
