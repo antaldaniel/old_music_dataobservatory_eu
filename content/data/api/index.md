@@ -36,7 +36,9 @@ slides: ""
 
 Our observatory has a new data API which allows access to our daily refreshing open data. You can access the API via [api.music.dataobservatory.eu](http://api.music.dataobservatory.eu/) (*apologies for the ugly, temporary subdomain masking!*).
 
-All the data and the metadata are available as open data, without database use restrictions, under the [ODbL](https://opendatacommons.org/licenses/odbl/) license.
+All the data and the metadata are available as open data, without database use restrictions, under the [ODbL](https://opendatacommons.org/licenses/odbl/) license. We are currently working on a solution that applies the [FAIR Guiding Principles for scientific data management and stewardship](http://www.nature.com/articles/sdata201618), and fulfills the mandatory requirements of the Dublic Core metadata standards and at the same time the [mandatory requirements](https://support.datacite.org/docs/datacite-metadata-schema-v44-mandatory-properties), and most of the [recommended requirements](https://support.datacite.org/docs/datacite-metadata-schema-v44-recommended-and-optional-properties) of DataCite. These changes will be effective before 1 July 2021.
+
+The **Competition Data Observatory** temporarily shares an API with the [Economy Data Observatory](https://economy.dataobservatory.eu/), which serves as an incubator for similar economy-oriented reproducible research resources.
 
 
 Our API can be found temporarily on [api.music.dataobservatory.eu](http://api.music.dataobservatory.eu) and it allows access to our indicators and metadata in simple tables or in SQL queries.
