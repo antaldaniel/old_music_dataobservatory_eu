@@ -18,7 +18,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/dataandlyrics
+  url: https://twitter.com/EconDataObs
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -32,7 +32,34 @@ url_video: ""
 slides: ""
 ---
 
+Many countries in the world allow access to a vast array of information,
+such as documents under freedom of information requests, statistics,
+datasets. In the European Union, most taxpayer financed data in
+government administration, transport, or meteorology, for example, can
+be usually re-used. More and more scientific output is expected to be
+reviewable and reproducible, which implies open access.
+
 In the EU, open data is governed by the [Directive on open data and the re-use of public sector information - in short: Open Data Directive (EU) 2019 / 1024](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024). It entered into force on 16 July 2019. It replaces the [Public Sector Information Directive](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098), also known as the *PSI Directive* which dated from 2003 and was subsequently amended in 2013.
+
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><img src="/media/img/blogposts_2021/photo-1490004047268-5259045aa2b4.jpg" /></br></br><a href="#open-data-problems">What’s the Problem with Open Data?</a></br></td>
+<td style="text-align: center;"><img src="/media/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" /></br></br><a href="#open-data-value-added">How We Add Value?</a></br></td>
+</tr>
+</tbody>
+</table>
+
+
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1490004047268-5259045aa2b4.jpg" caption="What’s the Problem with Open Data?l" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" caption="How We Add Value?" numbered="false" >}}</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Is There Value in Open Data?
 
@@ -59,5 +86,3 @@ In the EU, open data is governed by the [Directive on open data and the re-use o
 1. Our curators know the data sources very well, and know what should be acquired, re-processed, and re-documented to your needs.
 2. Our developers know how to create reliable, open source statistical software that sends the data through dozens of automated unit-tests, and open their algorithms for peer-review by other computational statisticians.  
 3. Our service development team helps to make our high-quality, reprocessed open data available for your workflows in business, science or public policy.
-
-
