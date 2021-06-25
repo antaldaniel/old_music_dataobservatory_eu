@@ -65,7 +65,9 @@ developers to dig into novel open data sources and/or increase the
 usability of existing ones. We transform reproducible research software
 into research-as-service.
 
-- Most open data cannot be just ["downloaded."](/data/open-gov/)
+- Most open data cannot be just ["downloaded."](#open-data-faq)
+- Often, you need to put more than \$100 value of [work](#is-there-value-left-in-open-data) into processing, validating, documenting a dataset that is worth \$100. But you can share this investment with our data observatories.
+- Open data is almost always lacking of documentation, and no clear references to validate if the data is reliable or not corrupted. This is why we always [start](#open-data-value-added) with reprocessing and redocumenting. 
 
 {{< figure src="/media/img/observatory_screenshots/observatory_collage_16x9_800.png" caption="Our review of about 80 EU, UN and OECD data observatories reveals that most of them do not use these organizations's open data - instead they use various, and often not well processed proprietary sources." numbered="false" >}}
 
@@ -130,7 +132,7 @@ anyone actually being informed by it”[^2]
     
 {{< figure src="media/img/slides/automated_observatory_value_chain.jpg" caption="Our service flow and value chain" numbered="false" >}}
 
-## FAQ 
+## FAQ {#open-data-faq}
 
 ### Why Downloading Does Not Work?
 
