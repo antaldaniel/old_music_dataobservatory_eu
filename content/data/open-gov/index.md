@@ -97,7 +97,7 @@ Rush](https://dataandlyrics.com/post/2021-06-18-gold-without-rush/)
 
 In the EU, open data is governed by the [Directive on open data and the re-use of public sector information - in short: Open Data Directive (EU) 2019 / 1024](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024). It entered into force on 16 July 2019. It replaces the [Public Sector Information Directive](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098), also known as the *PSI Directive* which dated from 2003 and was subsequently amended in 2013.
 
-**Open Data** can *potentially* useful information, analogous to potential energy: work is required to release it.
+**Open Data** is *potentially* useful data that can *potentially* replace costlier or hard to get data sources to build information. It is analogous to potential energy: work is required to release it. We build automated systems that reduce this work and increase the likelihood that open data will offer the *best value for money*.
 
 -   Open data is often untapped and provides you competitive advantage
     in scientific research or market intellgience. Most open data is not
@@ -117,7 +117,7 @@ In the EU, open data is governed by the [Directive on open data and the re-use o
 ## From Datasets to Data Integration, Data to Information {#data-integration}
 
 “Data is only potential information, raw and unprocessed, prior to
-anyone actually being informed by it”[2]
+anyone actually being informed by it”[^2]
 
 -   We are building simple databases and supporting APIs that release
     the data without restrictions, in a tidy format that is easy to join
