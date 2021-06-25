@@ -1,11 +1,17 @@
 ---
 title: Open Government Data
-summary: Public-sector information re-use and freedom of information
+summary: Many countries in the world allow access to a vast array of information,
+    such as documents under freedom of information requests, statistics,
+    datasets. In the European Union, most taxpayer financed data in
+    government administration, transport, or meteorology, for example, can
+    be usually re-used. More and more scientific output is expected to be
+    reviewable and reproducible, which implies open access.
 tags:
 - psi
 - open-gov
 - foi
 date: "2021-05-16T00:00:00Z"
+lastmod = 2021-06-25T15:00:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -18,7 +24,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/EconDataObs
+  url: https://twitter.com/DigitalMusicObs
 url_code: ""
 url_pdf: ""
 url_slides: ""
