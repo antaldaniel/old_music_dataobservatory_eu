@@ -50,12 +50,79 @@ In the EU, open data is governed by the [Directive on open data and the re-use o
 </tbody>
 </table>
 
+## What’s the Problem with Open Data? {#open-data-problems}
+
+If open data is the new gold, why even those who release fail to reuse
+it? We created an open collaboration of data curators and open-source
+developers to dig into novel open data sources and/or increase the
+usability of existing ones. We transform reproducible research software
+into research-as-service.
+
+- Most open data cannot be just ["downloaded."](/data/open-gov/)
+
+{{< figure src="/media/img/observatory_screenshots/observatory_collage_16x9_800.png" caption="What’s the Problem with Open Data?", caption="Our review of about 80 EU, UN and OECD data observatories reveals that most of them do not use these organizations's open data - instead they use various, and often not well processed proprietary sources." numbered="false" >}}
+
+Read more: [Open Data - The New Gold Without the
+Rush](https://dataandlyrics.com/post/2021-06-18-gold-without-rush/)
 
 ## Is There Value in Open Data?
 
 - Open data is often untapped and provides you competitive advantage in scientific research or market intellgience. Most open data is not publicy accessible, and available upon request.
 - Most European open data comes from tax authorities, meteorological offices, managers of transport infrastructure, and other governmental bodies whose data needs are very different from yours.  Their data must be carefully evaluated, re-processed, and if necessary, imputed to be usable for your scientific, business or policy goals.
 - The use of open science data is problematic in different ways: usually understanding the data documentation requires domain-specific specialist knowledge.  [Open science data](https://music.dataobservatory.eu/data/open-science/) is even more scattered and difficult to access than technically open, but not public governmental data.
+
+
+## How We Add Value {#open-data-value-added}
+
+[Our team](/#contributors) knows how to bring data to the light, and release it in the best possible format with the highest quality documentation.
+
+-   We believe that even such generally trusted data sources as Eurostat
+    often need to be reprocessed, because various legal and political
+    constraints do not allow the common European statistical services to
+    provide optimal quality data – for example, on the regional and city
+    levels.
+-   With
+    [rOpenGov](https://greendeal.dataobservatory.eu/authors/ropengov/)
+    and other partners, we are creating open-source statistical software
+    in R to re-process these heterogenous and low-quality data into tidy
+    statistical indicators to automatically validate and document it.
+-   We are carefully documenting and releasing administrative,
+    processing, and descriptive metadata, following international
+    metadata standards, to make our data easy to find and easy to use
+    for data analysts.
+-   We are automatically creating depositions and authoritative copies
+    marked with an individual digital object identifier (DOI) to
+    maintain data integrity.
+-   We are building simple databases and supporting APIs that release
+    the data without restrictions, in a tidy format that is easy to join
+    with other data, or easy to join into databases, together with
+    standardized metadata.
+-   We maintain observatory websites (see: \[Digital Music
+    Observatory\](<https://music.d> ![Our service flow and value
+    chain](https://greendeal.dataobservatory.eu/media/img/slides/automated_observatory_value_chain.jpg "Our service flow and value chain")
+
+Metadata is a potentially informative data record about a potentially
+informative dataset.
+
+## Photo Credits
+
+*What’s the Problem with Open Data?* illustration is a photo by
+[Cristina Gottardi](https://unsplash.com/photos/8hJQKRIQZMY) *How We Add
+Value?* illustration is a photo by [Nana
+Smirnova](https://unsplash.com/photos/IEiAmhXehwE).
+
+## Footnote References
+
+[1] Pomerantz, Jeffrey. 2021. “Metadata.” MIT Press essential knowledge
+series. MIT Press. Cambridge, Massachusetts ; London, England : The MIT
+Press, \[2015\]
+
+[2] Pomerantz, Jeffrey. 2021. “Metadata.” MIT Press essential knowledge
+series. MIT Press. Cambridge, Massachusetts ; London, England : The MIT
+Press, \[2015\]
+
+
+
 
 ## Why Downloading Does Not Work?
 
@@ -71,8 +138,5 @@ In the EU, open data is governed by the [Directive on open data and the re-use o
 
 ## How We Add Value?
 
-[Our team](https://music.dataobservatory.eu/#contributors) knows how to bring data to the light, and release it in the best possible format with the highest quality documentation.
 
-1. Our curators know the data sources very well, and know what should be acquired, re-processed, and re-documented to your needs.
-2. Our developers know how to create reliable, open source statistical software that sends the data through dozens of automated unit-tests, and open their algorithms for peer-review by other computational statisticians.  
-3. Our service development team helps to make our high-quality, reprocessed open data available for your workflows in business, science or public policy.
+
