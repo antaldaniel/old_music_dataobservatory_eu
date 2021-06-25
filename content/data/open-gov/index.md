@@ -45,7 +45,7 @@ In the EU, open data is governed by the [Directive on open data and the re-use o
 <tbody>
 <tr class="odd">
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1490004047268-5259045aa2b4.jpg" caption="[What’s the Problem with Open Data?](/data/open-gov/#open-data-problems)" numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" caption="[How We Add Value?]/data/open-gov/#open-data-value-added)" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" caption="[How We Add Value?](/data/open-gov/#open-data-value-added)" numbered="false" >}}</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">{< figure src="/media/img/blogposts_2021/photo-1533580909002-a2f298d005eb.jpg" caption="[Is There Value in It?](/data/open-gov/#open-data-problems)" numbered="false" >}}</br>If it’s money on the street, why nobody’s picking it up?</td>
