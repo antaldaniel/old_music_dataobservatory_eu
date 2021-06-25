@@ -59,11 +59,8 @@ reviewable and reproducible, which implies open access.
 
 ## What’s the Problem with Open Data? {#open-data-problems}
 
-If open data is the new gold, why even those who release fail to reuse
-it? We created an open collaboration of data curators and open-source
-developers to dig into novel open data sources and/or increase the
-usability of existing ones. We transform reproducible research software
-into research-as-service.
+*“Data is stuff. It is raw, unprocessed, possibly even untouched by human
+hands, unviewed by human eyes, un-thought-about by human minds.”* [1]
 
 - Most open data cannot be just ["downloaded."](#open-data-faq)
 - Often, you need to put more than \$100 value of [work](#is-there-value-left-in-open-data) into processing, validating, documenting a dataset that is worth \$100. But you can share this investment with our data observatories.
@@ -97,9 +94,7 @@ Rush](https://dataandlyrics.com/post/2021-06-18-gold-without-rush/)
 
 ## Is There Value in Open Data? {#is-there-value-left-in-open-data}
 
-*A well-known story tells of a finance professor and a student who come across a $100 bill lying on the
-ground. As the student stops to pick it up, the professor says, “Don’t bother—if it were
-really a \$100 bill, it wouldn’t be there.”*
+*A well-known story tells of a finance professor and a student who come across a $100 bill lying on the ground. As the student stops to pick it up, the professor says, “Don’t bother—if it were really a \$100 bill, it wouldn’t be there.”*
 
 But this is not the case with open data.  Often, you need to put more than \$100 into processing, validating, documenting a dataset that is worth \$100.
 
@@ -123,7 +118,7 @@ In the EU, open data is governed by the [Directive on open data and the re-use o
 ## From Datasets to Data Integration, Data to Information {#data-integration}
 
 “Data is only potential information, raw and unprocessed, prior to
-anyone actually being informed by it”[^2]
+anyone actually being informed by it.” [2]
 
 -   We are building simple databases and supporting APIs that release
     the data without restrictions, in a tidy format that is easy to join
@@ -145,7 +140,6 @@ anyone actually being informed by it”[^2]
 
 - Most public and open data sources have many missing observations; machine learning models usually cannot hanlde missingness. These points must be carefully imputed with approximations, which can be very challenging when the data has geographical dimension.
 - Removing missing values makes samples extremely biased and your model will learn from omissions, not information.
-
 
 
 ## Photo Credits
