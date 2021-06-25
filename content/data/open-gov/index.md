@@ -95,19 +95,17 @@ Rush](https://dataandlyrics.com/post/2021-06-18-gold-without-rush/)
 
 ## Is There Value in Open Data? {#is-there-value-left-in-open-data}
 
-A well-known story tells of a finance professor and a student who come across a $100 bill lying on the
+*A well-known story tells of a finance professor and a student who come across a $100 bill lying on the
 ground. As the student stops to pick it up, the professor says, “Don’t bother—if it were
-really a \$100 bill, it wouldn’t be there.” 
+really a \$100 bill, it wouldn’t be there.”*
 
-But this is not the case with open data.  Often, you need to put more than \$100 into processing, validating, documenting a dataset that is worth \$100
+But this is not the case with open data.  Often, you need to put more than \$100 into processing, validating, documenting a dataset that is worth \$100.
 
 In the EU, open data is governed by the [Directive on open data and the re-use of public sector information - in short: Open Data Directive (EU) 2019 / 1024](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024). It entered into force on 16 July 2019. It replaces the [Public Sector Information Directive](https://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:32003L0098), also known as the *PSI Directive* which dated from 2003 and was subsequently amended in 2013.
 
 **Open Data** is *potentially* useful data that can *potentially* replace costlier or hard to get data sources to build information. It is analogous to potential energy: work is required to release it. We build automated systems that reduce this work and increase the likelihood that open data will offer the *best value for money*.
 
--   Open data is often untapped and provides you competitive advantage
-    in scientific research or market intellgience. Most open data is not
-    publicy accessible, and available upon request.
+-   Most open data is not publicy accessible, and available upon request. Our real curatorial advantage is that we know where it is and how to get this request processed.
 -   Most European open data comes from tax authorities, meteorological
     offices, managers of transport infrastructure, and other
     governmental bodies whose data needs are very different from yours.
