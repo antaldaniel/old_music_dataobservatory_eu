@@ -44,11 +44,16 @@ In the EU, open data is governed by the [Directive on open data and the re-use o
 <table>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1490004047268-5259045aa2b4.jpg" caption="[What’s the Problem with Open Data?](https://music.dataobservatory.eu/data/open-gov/#open-data-problems)" numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" caption="[How We Add Value?](https://music.dataobservatory.eu/data/open-gov/#open-data-value-added)" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1490004047268-5259045aa2b4.jpg" caption="[What’s the Problem with Open Data?](/data/open-gov/#open-data-problems)" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" caption="[How We Add Value?]/data/open-gov/#open-data-value-added)" numbered="false" >}}</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">{< figure src="/media/img/blogposts_2021/photo-1533580909002-a2f298d005eb.jpg" caption="[Is There Value in It?](/data/open-gov/#open-data-problems)" numbered="false" >}}</br>If it’s money on the street, why nobody’s picking it up?</td>
+<td style="text-align: center;">{< figure src="/media/img/blogposts_2021/photo-1605143185650-77944b152643.jpg" caption="[Datasets Should Work Together to Give Information](/data/open-gov/#open-data-problems)" numbered="false" >}}</br>If it’s money on the street, why nobody’s picking it up?</td>
 </tr>
 </tbody>
 </table>
+
 
 
 ## What’s the Problem with Open Data? {#open-data-problems}
@@ -108,9 +113,10 @@ informative dataset.
 ## Photo Credits
 
 *What’s the Problem with Open Data?* illustration is a photo by
-[Cristina Gottardi](https://unsplash.com/photos/8hJQKRIQZMY) *How We Add
-Value?* illustration is a photo by [Nana
+[Cristina Gottardi](https://unsplash.com/photos/8hJQKRIQZMY) 
+*How We Add Value?* illustration is a photo by [Nana
 Smirnova](https://unsplash.com/photos/IEiAmhXehwE).
+** is a photo by [Imelda](https://unsplash.com/photos/GcnPjvqRL18)
 
 ## Footnote References
 
