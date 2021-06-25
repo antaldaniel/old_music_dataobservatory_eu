@@ -44,11 +44,12 @@ In the EU, open data is governed by the [Directive on open data and the re-use o
 <table>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1490004047268-5259045aa2b4.jpg" caption="What’s the Problem with Open Data?" numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" caption="How We Add Value?" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1490004047268-5259045aa2b4.jpg" caption="[What’s the Problem with Open Data?](https://music.dataobservatory.eu/data/open-gov/#open-data-problems)" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/photo-1590247813693-5541d1c609fd.jpg" caption="[How We Add Value?](https://music.dataobservatory.eu/data/open-gov/#open-data-value-added)" numbered="false" >}}</td>
 </tr>
 </tbody>
 </table>
+
 
 ## What’s the Problem with Open Data? {#open-data-problems}
 
@@ -65,7 +66,7 @@ into research-as-service.
 Read more: [Open Data - The New Gold Without the
 Rush](https://dataandlyrics.com/post/2021-06-18-gold-without-rush/)
 
-## Is There Value in Open Data?
+## Is There Value in Open Data? {#is-there-value}
 
 - Open data is often untapped and provides you competitive advantage in scientific research or market intellgience. Most open data is not publicy accessible, and available upon request.
 - Most European open data comes from tax authorities, meteorological offices, managers of transport infrastructure, and other governmental bodies whose data needs are very different from yours.  Their data must be carefully evaluated, re-processed, and if necessary, imputed to be usable for your scientific, business or policy goals.
