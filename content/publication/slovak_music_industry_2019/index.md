@@ -42,7 +42,19 @@ url_slides = "https://www.slideshare.net/antaldaniel/spva-o-hudobnom-priemysle-n
 url_video = ""
 url_poster = ""
 url_source = ""
-
+links:
+- icon: book-open
+  icon_pack: fas
+  name: Book
+  url: http://www.soza.sk/cms/content/files/Sprava_o_slovenskom_hudobnom_priemysle_marec2019.pdf
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/79286750
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
