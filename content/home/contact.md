@@ -18,7 +18,7 @@ content:
   
   # Email form provider
   form:
-    provider: netlify
+    provider: 
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
