@@ -11,7 +11,7 @@ tags = ["open-data", "open-science", "regional data","valuation", "United Kingdo
 
 summary = "Our Digital Music Observatory contributes to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context."
 
-projects = ["eu-datathon_2021"]
+projects = [""]
 
 # Featured image
 [image]

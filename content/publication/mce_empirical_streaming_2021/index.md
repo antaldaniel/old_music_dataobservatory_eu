@@ -64,21 +64,6 @@ math = false
 
 The research questions asked in this report are related to the [Music Creator Earnings' Project](https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era) (MCE), exploring issues concerning equitable remuneration and earnings distributions. We were tasked with providing a longitudinal analysis of earnings development and relating our findings to equitable remuneration. The starting point of our work was centred around a very broadly defined problem: how much money music creators (rightsholders) earn from streaming, how these earnings are distributed, and how the earnings and their distribution have developed during the last decade.
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo=FALSE, message=FALSE, warnings=FALSE, out.width ='80%', fig.align='center')
-library(kableExtra); 
-library(knitr); library(ggplot2); library(scales); library(dplyr); library(tidyr)
-library(webshot)
-library(here)
-here::here()
-```
-
-```{r packages, include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown', 'ggplot2', 'scales', 'dplyr', 'tidyr', 'tidyverse',  'ggplot2','stats', 'purrr', 'kableExtra', 'webshot' ), 'packages.bib')
-```
-
 The highly globalized music industry generates two important international reports, as well as several national reports, but these are not suitable for the analysis of the typical or average rightsholder, nor for small labels and publishers who do not represent a large and internationally diversified portfolio of music works or recordings. Copyright and neighboring right revenues are collected in national jurisdictions. Because British artists are almost never constrained by their use of language, and the UK Music Industry is highly competitive in the global music markets, even relatively less known rightsholders earn revenues from dozens of national markets. The lack of market information on music sales volumes, prices for each jurisdiction, and the unaccounted for national, domestic, and foreign revenues makes the analysis of the rightholder’s earnings, or the economics of a certain distribution channel like music streaming or media platforms, impossible.
 
 While total earnings are reported by international and national organizations, they hide five important economic variables: changes in sales volumes, changes in prices, market share on various national jurisdictions (which have their own volume and price movements), the exchange rates applied, and the share of the repertoire exploited. Even worse, the global music industry has no comprehensive database of rightsholders, music works, and recordings. Many rights are represented by heirs or passive investors. And because of the enormous number of works and recordings, in any given royalty payment period, most works/recordings are not used and not compensated. The lack of a known population and distribution makes usual indicators as average or median earnings arithmetically impossible to compute, and the large number of disused works and recordings makes even the estimation of the typical (median) value useless for economic analysis. The estimation of the arithmetic mean is equally problematic, because it is distorted by the earnings of very few global stars. To understand the streaming economy from the perspective of a typical or average rightsholder, or from the perspective of a small independent label or music publisher, requires very challenging sampling techniques either in surveying or in empirically observing and aggregating data from royalty accounts. National and international music organizations are not equipped with the data processing and statistical capacity to do so.
@@ -106,4 +91,10 @@ Our report highlights some important lessons. First, we show that in the era of 
 * [Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/): While the US have already taken steps to provide an integrated data space for music as of 1 January 2021, the EU is facing major obstacles not only in the field of music but also in other creative industry sectors. Weighing costs and benefits, there can be little doubt that new data improvement initiatives and sufficient investment in a better copyright data infrastructure should play a central role in EU copyright policy. A trade-off between data harmonisation and interoperability on the one hand, and transparency and accountability of content recommender systems on the other, could pave the way for successful new initiatives.
 
 * [Central & Eastern European Music Industry Report 2020](https://music.dataobservatory.eu/publication/ceereport_2020/): The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.
+
+
+## Call for Open Collaboration
+
+*Do you need high-quality data for your music business or institution? Are you a music researcher? Join our open collaboration Digital Music Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team).*
+
 
