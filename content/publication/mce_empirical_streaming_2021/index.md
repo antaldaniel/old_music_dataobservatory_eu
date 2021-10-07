@@ -32,11 +32,11 @@ tags = ["market-report", "music-industry", "United Kingdom", "music-streaming", 
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://mce.dataobservatory.eu/MCE_UKIPO_Reprex.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
-url_project = ""
+url_project = "https://mce.dataobservatory.eu/"
 url_slides = ""
 url_video = ""
 url_poster = ""
@@ -96,3 +96,14 @@ Our computer simulations show that British rightsholders are experiencing a rath
 The MCE project and its stakeholders did not provide us with any data. Our detailed data from other jurisdictions, however, shows that music streaming has been successfully competing with other sales/distribution formats of music partly because it was much cheaper, and generally devalued music-related rights. This is particularly the case with media platforms like YouTube. For the UK, which is not planning to adopt new EU regulations, closing the value gap is an important policy task. We also show on the example of other countries that current policy debate in the UK around the re-definition of equitable remuneration rigths, or on the pro-rata or user-centrique distribution schemes, are gaining excessive focus, and changes in these aspects of the streaming ecosystem will solve the problems of few, if any, rightsholders. We believe that the music industry must look beyond the current practices of streaming pricing and distribution, for example, to telecommunication services, and investigate the adoption of a more just system.
 
 Our report highlights some important lessons. First, we show that in the era of global music sales platforms it is impossible to understand the economics of music streaming without international data harmonization and advanced surveying and sampling. Paradoxically, without careful adjustments for accruals, market shares in jurisdictions, and disaggregation of price and volume changes, the British industry cannot analyze its own economics because of its high level of integration to the global music economy. Furthermore, the replacement of former public performances, mechanical licensing, and private copying remunerations (which has been available for British rightsholders in their European markets for decades) with less valuable streaming licenses has left many rightsholders poorer. Making adjustments on the distribution system without modifying the definition of equitable remuneration rights or the pro-rata distribution scheme of streaming platforms opens up many conflicts while solving not enough fundamental problems.  Therefore, we suggest participation in international data harmonization and policy coordination to help regain the historical value of music.
+
+## Related Work
+
+* [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/): Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application.
+
+* [Music Streaming: Is It a Level Playing Field?](https://music.dataobservatory.eu/publication/music_level_playing_field_2021/): Our paper argues that fair competition in music streaming is restricted by the nature of the remuneration arrangements between creators and the streaming platforms, the role of playlists, and the strong negotiating power of the major labels. It concludes that urgent consideration should be given to a user-centric payment system, as well as greater transparency of the factors underpinning playlist creation and of negotiated agreements.
+
+* [Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/): While the US have already taken steps to provide an integrated data space for music as of 1 January 2021, the EU is facing major obstacles not only in the field of music but also in other creative industry sectors. Weighing costs and benefits, there can be little doubt that new data improvement initiatives and sufficient investment in a better copyright data infrastructure should play a central role in EU copyright policy. A trade-off between data harmonisation and interoperability on the one hand, and transparency and accountability of content recommender systems on the other, could pave the way for successful new initiatives.
+
+* [Central & Eastern European Music Industry Report 2020](https://music.dataobservatory.eu/publication/ceereport_2020/): The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings.
+
