@@ -1,9 +1,9 @@
 +++
-title = ""
-date = 2020-11-11T10:00:00
+title = "An Empirical Analysis of Music Streaming Revenues and Their Distribution"
+date = 2021-09-23T10:00:00
 draft = false
 
-authors = ["Paul Carr"]
+authors = ["Daniel Antal"]
 
 # Publication type.
 # Legend:
@@ -11,9 +11,9 @@ authors = ["Paul Carr"]
 publication_types = ["4"]
 
 # Abstract and optional shortened version.
-abstract = "This report outlines the emergence of private and public sector support for the music industries in Wales since the pandemic commenced; examines the advice given to the music industries concerning roadmaps out of the pandemic; reviews the industry and academic research that has emerged since the pandemic started and finally, compares Welsh Government support packages tonations in other parts of the world."
+abstract = "Our report highlights some important lessons. First, we show that in the era of global music sales platforms it is impossible to understand the economics of music streaming without international data harmonization and advanced surveying and sampling. Paradoxically, without careful adjustments for accruals, market shares in jurisdictions, and disaggregation of price and volume changes, the British industry cannot analyze its own economics because of its high level of integration to the global music economy. Furthermore, the replacement of former public performances, mechanical licensing, and private copying remunerations (which has been available for British rightsholders in their European markets for decades) with less valuable streaming licenses has left many rightsholders poorer. Making adjustments on the distribution system without modifying the definition of equitable remuneration rights or the pro-rata distribution scheme of streaming platforms opens up many conflicts while solving not enough fundamental problems.  Therefore, we suggest participation in international data harmonization and policy coordination to help regain the historical value of music."
 
-abstract_short = "This report outlines private and public sector support, advice given for the music industries in Wales since the Covid-19 pandemic commenced and reviews the industry and academic research."
+abstract_short = "This report was commissioned by the Music Creators’ Earnings Project as an empirical analysis of justified and unjustified differences in music creators’ music streaming earnings."
 
 # Is this a featured publication? (true/false)
 featured = true
