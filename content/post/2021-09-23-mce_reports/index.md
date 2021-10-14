@@ -1,6 +1,6 @@
 +++
-title = "Music Creators’ Earnings in the Streaming Era"
-subtitle = "United Kingdom Research Cooperation With the Digital Music Observatory"
+title = "Research & Analysis: Music Creators’ Earnings in the Digital Era"
+subtitle = "The UK Intellectual Property Office publishes the entire report - read our detailed contributing analysis"
 date = 2021-09-23T08:00:00
 lastmod = 2021-10-07T09:00:00
 draft = false
