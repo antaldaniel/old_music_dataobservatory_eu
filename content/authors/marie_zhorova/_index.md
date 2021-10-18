@@ -15,8 +15,8 @@ role: Data curator for Listen Local
 
 # Organizations/Affiliations
 organizations:
-- name: Sant'Anna School of Advanced Studies
-  url: "https://www.santannapisa.it/"
+- name: BrainZone Synch & Publishing
+  url: "https://brainzonesyncpub.com/en/home/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a music publisher and a performing artist.  
