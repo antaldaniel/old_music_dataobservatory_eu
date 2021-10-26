@@ -43,24 +43,7 @@ url_code = ""
   focal_point = "Center"
 +++
 
-* 
-*  Promote standardised data collection about the music (sub-)sector(s) to measure the contribution of the EU music sector to the whole economy, the number of employed in the EU music sector, and music consumption on live, broadcast, and digital platforms.
-* .
-*
-
-
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">{{< figure src="/media/icons/dmo_avatar.png" caption="[Digital](/observatories/music/)</br>[Music Observatory](/observatories/music/)</br>Provide new/improved methodologies for capturing the economic and societal value of music.." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/icons/cdo_avatar.png" caption="[Competition Data Observatory](/observatories/competition/)</br>Develop indicators to better detect the performance of the European music sector and its contribution to economic and social development, as well as to sustainability." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/icons/gdo_avatar.png" caption="[Green Deal Data Observatory](/observatories/greendeal/)</br>Increase the transparency of the music industry, in particular the online/streaming business, through better data provision. Provide an estimation of the impact of music participation to the society." numbered="false" >}}</td>
-<td style="text-align: center;">{{< figure src="/media/icons/edo_avatar.png" caption="[Economy Data Observatory](/observatories/economy/)</br>Provide policymakers with effective tools for measuring and enhancing the impact of EU policy making, in the context of Music Moves Europe and beyond, on the music sector." numbered="false" >}}</td>
-</tr>
-</tbody>
+* Provide new/improved methodologies for capturing the economic and societal value of music.
+* Develop indicators to better detect the performance of the European music sector and its contribution to economic and social development, as well as to sustainability. Promote standardised data collection about the music (sub-)sector(s) to measure the contribution of the EU music sector to the whole economy, the number of employed in the EU music sector, and music consumption on live, broadcast and digital platforms.
+* Increase the transparency of the music industry, in particular the online/streaming business, through better data provision. Provide an estimation of the impact of music participation to the society.
+* Provide policymakers with effective tools for measuring and enhancing the impact of EU policy making, in the context of Music Moves Europe and beyond, on the music sector.
