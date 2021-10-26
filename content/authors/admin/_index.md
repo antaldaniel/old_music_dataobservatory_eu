@@ -60,7 +60,7 @@ user_groups:
 - Visitors
 ---
 
-The [Digital Music Observatory](project/music-observatory/)  is a fully automated, open source, open data observatory that links public datasets in order to provide a comprehensive view of the European music industry. The DMO produces key business and policy indicators that enable the growth of music business strategies and national music policies in a way that works both for music lover audiences and the creative enterprises of the sector. 
+The [Digital Music Observatory](project/music-observatory/)  is a fully automated, open source, open data observatory that links public datasets in order to provide a comprehensive view of the European music industry. The DMO produces key business and policy indicators that enable the growth of music business strategies and national music policies in a way that works both for music lover audiences and the creative enterprises of the sector, and contributes to a more competitive, fair and sustainable European music ecosystem. 
 
 Its data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/). 
 
@@ -75,7 +75,7 @@ Music is one of the most data-driven service industries where the majority of sa
 
 Our automated observatory participates in the [EU Datathon 2021](https://op.europa.eu/en/web/eudatathon) challenge #3. 
 
-{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/presentations/DMO_Datathon_Submission_2021.pdf" "newtab" >}}introduction{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/documents/Digital_Music_Observatory.pdf" "newtab" >}}introduction{{< /staticref >}}.
 
 Our Product/Market Fit was validated in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/). We are currently developing this project with the help of the [JUMP European Music Market Accelerator](https://www.jumpmusic.eu/fellow2021/automated-music-observatory/) program. 
 
