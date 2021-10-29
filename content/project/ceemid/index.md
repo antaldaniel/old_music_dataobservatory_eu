@@ -1,6 +1,7 @@
 +++
 # Project title.
 title = "CEEMID"
+subtitle = "CEEMID (2014-2020) is now the Digital Music Observatory"
 
 # Date this page was created.
 date = 2019-02-27T00:00:00
