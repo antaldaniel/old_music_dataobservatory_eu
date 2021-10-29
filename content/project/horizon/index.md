@@ -1,6 +1,7 @@
 +++
 # Project title.
 title = "Horizon Europe Consortium"
+subtitle = Towards a competitive, fair and sustainable European music ecosystem"
 
 # Date this page was created.
 date = 2020-10-14T10:00:00
@@ -42,6 +43,8 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
+
+We are looking for partners for the Horizon Europe call *Towards a competitive, fair and sustainable European music ecosystem*.
 
 * Provide new/improved methodologies for capturing the economic and societal value of music.
 * Develop indicators to better detect the performance of the European music sector and its contribution to economic and social development, as well as to sustainability. Promote standardised data collection about the music (sub-)sector(s) to measure the contribution of the EU music sector to the whole economy, the number of employed in the EU music sector, and music consumption on live, broadcast and digital platforms.
