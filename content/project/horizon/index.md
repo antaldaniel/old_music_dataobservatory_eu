@@ -1,7 +1,6 @@
 +++
 # Project title.
 title = "Horizon Europe Consortium"
-subtitle = Towards a competitive, fair and sustainable European music ecosystem"
 
 # Date this page was created.
 date = 2020-10-14T10:00:00
