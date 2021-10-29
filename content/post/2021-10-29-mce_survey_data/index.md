@@ -1,5 +1,5 @@
 +++
-title = "Research & Analysis: Music Creators’ Earnings in the Digital Era"
+title = "Retrospective Harmonization of UK Music Creators Earnings Survey"
 subtitle = "First version of the machine readable, partially processed UK Music Creators Earnings survey from 2021."
 date = 2021-10-29T09:00:00
 lastmod = 2021-10-29T09:00:00
