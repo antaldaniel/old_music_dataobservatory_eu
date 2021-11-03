@@ -16,7 +16,7 @@ projects = "horizon"
 # Featured image
 [image]
   # Caption (optional)
-  caption = "Photo by [Martin Zenzerovich](https://www.jumpmusic.eu/fellow2021/groovly/)"
+  caption = "See you on [Linecheck 2021](https://www.linecheck.it/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -27,16 +27,13 @@ projects = "horizon"
 
 +++
 
+Our main aim was to find new users to our Digital Music Observatory, and to find partners for a future [Horizon Europe](https://reprex.nl/project/horizon/) R&D project to develop the scientific pillars of the Observatory in a manner that meets practical industry needs and the feature requirements laid out in the [Feasiblity Study for a Euroepan Music Observatory](https://reprex.nl/post/2020-11-16-european-music-observatory-feasibility/). 
 
-Daniel Antal will participate in the [Streaming Economics: where are we really going?](https://reprex.nl/talk/streaming-economics-where-are-we-really-going/) panel discussion with Helienne Lindvall, Enzo Mazza (President of FIMI), Charles Kilby Welch , moderated by Steve Mayall (Music Ally). 
+We believe that our Digital Music Observatory and its decentralized, bottom-up approach allows for a great combination of open science funding and meeting the requirements laid out in the _Feasibility Study_. Our open collaboratin method does not require complex international agreements to jump start a truly European music observatory - we are already halfway there.
 
+Our data is particularly useful in understanding why music streaming is devalueing copyrights, and how its autonomous recommendation systems can undermine important cultural policy, child protection, or competition and anti-discrimination laws.
 
-
-Our main aim was to find new users to our Digital Music Observatory, and to find partners for a future Horizon Europe R&D project to develop the scientific pillars of the Observatory in a manner that meets practical industry needs and the feature requirements laid out in hte Feasiblity Study for a Euroepan Music Observatory.
-
-Our concept was introduced in Le Trianon to a wider audience during the [JUMP Music Market Accelerator Pitch Session](https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/) and in one-to-one meetings to representatives of French national organizations. We have also started to investigate the possibility to cooperate with two startups to bring our data services closer to artists, labels, and publishers. 
-
-<script class="lesondier-widget" data-ls-event-id="12386" data-ls-site-slug="mama" src="https://live.mamafestival.com/build/widget/widget_loader.min.js" data-ls-width="600px" data-ls-height="435px" async></script>
+If you want to get a taste of the value of our data, check out the panel discussion [Streaming Economics: where are we really going?](https://reprex.nl/talk/streaming-economics-where-are-we-really-going/) panel discussion with Helienne Lindvall, Enzo Mazza (President of FIMI), Charles Kilby Welch , moderated by Steve Mayall (Music Ally), and of course, Daniel Antal, the co-founder of Reprex and the Digital Music Observatory.
 
 ## Use Cases
 
