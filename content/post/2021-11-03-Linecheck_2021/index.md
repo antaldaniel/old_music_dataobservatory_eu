@@ -1,17 +1,17 @@
 +++
 title = "The Digital Music Observatory on LineCheck"
 subtitle = "Open call for Italian and international partners to try out and join the Digital Music Observatory"
-date = 2021-10-15T19:00:00
-lastmod = 2021-10-15T19:00:00
+date = 2021-11-03T17:00:00
+lastmod = 2021-11-03T17:00:00
 draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["music","data-as-service", "innovation", "Italy"]
+tags = ["music","data-as-service", "innovation", "Italy", "Horizon Europe"]
 
 summary = "We are looking for partners for the Horizon Europe call Towards a competitive, fair and sustainable European music ecosystem."
 
-projects = "horizon"
+projects = ""
 
 # Featured image
 [image]
