@@ -17,6 +17,10 @@ role: Data Scientist & Founder of the Digital Music Observatory
 organizations:
 - name: Reprex B.V.
   url: "https://reprex.nl/"
+- name:  Centre for Competition Policy
+  url: "http://competitionpolicy.ac.uk/"
+- name: IViR Institute for Information Law
+  url: "https://www.ivir.nl/employee/antaldaniel/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include reproducible social science, economics and finance.
@@ -85,4 +89,6 @@ user_groups:
 - developers
 ---
 
-Daniel Antal is an experienced management consultant who applies a thoroughly professional approach based in economics, finance and data science in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the [standards and ethical guidelines](https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance) of the Chartered Financial Analyst Institute. 
+Daniel Antal is an experienced data scientist, consultant, economist, and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations with shared resources and research automation. He applies data science practice, open-source software development with sound economics and valuation techniques. 
+
+He is also a research affiliate at the [Centre for Competition Policy](https://www.linkedin.com/school/ccpuea/ and at the [Institute for Information Law](https://www.ivir.nl/employee/antaldaniel/) of the University of Amsterdam.
