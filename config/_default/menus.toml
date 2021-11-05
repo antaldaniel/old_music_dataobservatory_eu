@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Pillars-Topics"
+  name = "Pillars/Topics"
   url = "#pillars"
   weight = 30
 
@@ -33,13 +33,13 @@
 [[main]]
   name = "Contributors"
   url = "#contributors"
-  weight = 25
+  weight = 70
 
 
 [[main]]
   name = "Data API"
   url = "#data"
-  weight = 55
+  weight = 60
 
 [[main]]
   name = "Contact"
