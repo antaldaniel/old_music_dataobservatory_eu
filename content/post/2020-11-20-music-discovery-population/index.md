@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["open-data", "music-observatory", "music-discovery", "future-audiences", "music-export", "music-education"]
+tags = ["open data", "music observatory", "music discovery", "future audiences", "music-export", "music education", "audience"]
 
 summary = "People usually discover new music in their young age as they are forming their own personal identity with their peer group. The size of the music discovery population has changed dramatically across Europe in the last 30 years. We placed the data in the Demo Music Observatory."
 

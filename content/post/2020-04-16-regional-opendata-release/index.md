@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["CEEMID", "open-data", "music-demand", "music-observatory"]
+tags = ["CEEMID", "open data", "music demand"]
 
 projects = ["music-observatory"]
 

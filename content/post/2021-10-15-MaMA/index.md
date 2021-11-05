@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["music","data-as-service", "innovation", "France"]
+tags = ["music industry","data-as-service", "innovation", "France"]
 
 summary = "Reprex’s co-founder, Daniel Antal and our Listen Local curator, Marie Zhorová participated in the MaMA Festival & Convention in Paris on 13-15 October within the JUMP Music Market Accelerator Program. We introduced our Digital Music Observatory to national music organizations and encouraged them to try out a cooperation with us."
 

@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["music-industry", "CEEMID", "Croatia", "pricing", "PCR", "value-gap"]
+tags = ["music industry", "CEEMID", "Croatia", "pricing", "PCR", "value gap"]
 
 summary = "My study, Private Copying in Croatia, argues for an overhaul of the Croatian private copying remuneration scheme and gives some empirical evidence for the transposition of the DSM Directive. Even for those who are not interested in royalties, the first 3 chapters offer a very interesting introduction on how people listen to music, how musicians make music and how people copy it in the 21st century."
 
