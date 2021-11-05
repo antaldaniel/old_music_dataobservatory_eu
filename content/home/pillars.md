@@ -10,7 +10,7 @@ subtitle = "Data Collection Topics"
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "pillars"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -26,8 +26,8 @@ subtitle = "Data Collection Topics"
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  #   name = "Music Economy"
+  #   tag = "music industry"
   
   # [[content.filter_button]]
   #   name = "Other"
