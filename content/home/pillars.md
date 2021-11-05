@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Use Cases"
-subtitle = "Data Applications, use cases, innovative uses of the data"
+title = "Pillars"
+subtitle = "Data Collection Topics"
 
 [content]
   # Page type to display. E.g. project.

@@ -14,36 +14,29 @@
   weight = 20
 
 [[main]]
-  name = "Contributors"
-  url = "#contributors"
-  weight = 25
+  name = "Pillars-Topics"
+  url = "#pillars"
+  weight = 30
+
+
+[[main]]
+  name = "Use Cases"
+  url = "#usecase"
+  weight = 40
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 30
-
-[[main]]
-  name = "Innovation"
-  url = "#projects"
-  weight = 40
-
-[[main]]
-  name = "Economy"
-  url = "http://data.music.dataobservatory.eu/music-economy.html"
   weight = 50
 
-  [[main]]
-  name = "Cirulation & Diversity"
-  url = "http://data.music.dataobservatory.eu/music-diversity.html"
-  weight = 51
 
-  [[main]]
-  name = "Society"
-  url = "http://data.music.dataobservatory.eu/music-society.html"
-  weight = 52
+[[main]]
+  name = "Contributors"
+  url = "#contributors"
+  weight = 25
 
-  [[main]]
+
+[[main]]
   name = "Data API"
   url = "#data"
   weight = 55
