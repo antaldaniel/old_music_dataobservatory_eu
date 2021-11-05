@@ -18,15 +18,6 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
-  organization = "EU Datathon 2021"
-  organization_url = "post/2021-05-21-eu-datathon-2021/"
-  title = "EU Datathon 2021 Challenge 3"
-  url = "post/2021-05-21-eu-datathon-2021/"
-  date_start = "2021-05-21"
-  date_end = ""
-  description = ""
-
 
 [[item]]
   organization = "JUMP European Music Market Accelerator"

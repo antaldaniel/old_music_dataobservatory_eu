@@ -64,19 +64,12 @@ The [Digital Music Observatory](project/music-observatory/)  is a fully automate
 
 {{< icon name="download" pack="fas" >}} Download our {{< staticref "media/documents/Digital_Music_Observatory.pdf" "newtab" >}}introduction{{< /staticref >}}.
 
-Our data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/). 
-
-**The Demo Music Observatory Pillars**: 
-
-1. [Music Economy](https://data.music.dataobservatory.eu/music-economy.html)
-2. [Diversity & Circulation](https://data.music.dataobservatory.eu/music-diversity.html)
-3. [Music & Society](https://data.music.dataobservatory.eu/music-society.html)
-4. [Innovation - innovative data applications](https://music.dataobservatory.eu/#projects)
-
-Music is one of the most data-driven service industries where the majority of sales are already made by AI-driven autonomous systems.  The DMO is a fully-functional service that can function as a testing ground of the `European Data Strategy`, showcasing the ways in which the music industry is affected by the problems that the `Digital Services Act` and the `Trustworthy AI` initiatives attempt to regulate. If these policies will work for the European microenterprise-dominated, complex and fragile European music ecosystem, then they are likely to make Europe fit for the digital age. 
+Our data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/): [Music Economy](/pillars/music-and-society/); [Diversity & Circulation](/pillars/diversity-circulatoin/); [Music & Society](/pillars/music-and-society/) and [Innovation - innovative data applications](/#usecases)
 
 Our Product/Market Fit was validated in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](post/2020-09-25-yesdelft-validation/). We are currently developing this project with the help of the [JUMP European Music Market Accelerator](https://www.jumpmusic.eu/fellow2021/automated-music-observatory/) program. 
 
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
 
 {{< icon name="phone" pack="fas" >}} Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}}.
+
+Music is one of the most data-driven service industries where the majority of sales are already made by AI-driven autonomous systems.  The DMO is a fully-functional service that can function as a testing ground of the `European Data Strategy`, showcasing the ways in which the music industry is affected by the problems that the `Digital Services Act` and the `Trustworthy AI` initiatives attempt to regulate. If these policies will work for the European microenterprise-dominated, complex and fragile European music ecosystem, then they are likely to make Europe fit for the digital age. 
