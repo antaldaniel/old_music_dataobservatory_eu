@@ -64,7 +64,7 @@ The [Digital Music Observatory](project/music-observatory/)  is a fully automate
 
 {{< icon name="download" pack="fas" >}} Download our {{< staticref "media/documents/Digital_Music_Observatory.pdf" "newtab" >}}introduction{{< /staticref >}}.
 
-Its data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/). 
+Our data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/). 
 
 **The Demo Music Observatory Pillars**: 
 
