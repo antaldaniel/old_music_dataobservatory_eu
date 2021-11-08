@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["listen local", "trustworthy AI", "music-observatory", "metadata", "copyright", "music discovery"]
+tags = ["listen local", "trustworthy AI", "Digital Music Observatory", "metadata", "copyright", "music discovery"]
 
 projects = ["music-observatory", "listen-local"]
 

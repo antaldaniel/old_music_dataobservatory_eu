@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["music-economy", "royalties", "value-gap", "recommendations", "machine-learning", "music-circulation"]
+tags = ["music industry", "royalties", "value gap", "recommendations", "machine learning", "music circulation", "Digital Music Observatory"]
 
 summary = "The problem of the music industry is not too little, but too much data. Music is drowning in numbers, and it has too little resources to turn much data into valuable information. We have shown that we open collaboration is the key to success."
 

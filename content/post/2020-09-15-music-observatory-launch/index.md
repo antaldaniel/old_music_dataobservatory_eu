@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal", "Réka Szentirmay"]
 
-tags = ["R", "open-data", "reproducible", "music", "observatory"]
+tags = ["R", "open data", "reproducible research", "music", "Digital Music Observatory"]
 
 summary = "We would like to validate our open source, open data, open collaboration based reproducible observatory concept with the Demo Music Observatory. All feedback is welcome."
 

@@ -6,7 +6,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["cisac", "pricing", "private-copying", "pcr", "restaurants", "hedonic-pricing", "valuation"]
+tags = ["CISAC", "pricing", "private copying", "pcr", "restaurants", "hedonic pricing", "valuation"]
 
 summary = "My short presentation highlighted the fact that the CEE region’s is much richer in terms of household cultural and recreational spending than music publishers believe."
 
