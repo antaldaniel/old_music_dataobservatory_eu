@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal", "rOpenGov", "leo_lahti", "kasia_kulma"]
 
-tags = ["open-data", "open-science", "regional data", "sub-national data", "R", "data collection"]
+tags = ["open data", "open science", "regional data", "sub-national data", "R", "data collection"]
 
 summary = "Live music is the breadwinner of most music professionals, artists, technicians, and managers alike, and it is a very local business. To analyze the live music economy, and its connection with the recorded music business, we need to create indicators on regional, provincial, or metropolitan area level.  We just made another step to localize our Digital Music Observatory."
 
