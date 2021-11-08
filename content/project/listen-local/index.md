@@ -9,7 +9,7 @@ date = 2020-09-29T10:00:00
 summary = "Listen Local is a trustworthy, ethical AI-powered system that aims to help great artists in small organizations and small countries using big data. We want to make sure that audiences are not only recommended global superhits, but locally relevant music, too. At present, corporate algorithms fail to connect listeners in small countries with music from the local scene - with artists whom the listener can easily see perform live in local venues, who sing in the listener’s language and who connect with the listener’s feelings and experiences."
 
 # Tags: can be used for filtering projects.
-tags = ["listen-local", "ai", "recommendations"]
+tags = ["Listen Local", "ai", "recommendations"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

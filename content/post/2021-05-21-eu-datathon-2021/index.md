@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal", "Andrés García Molina"]
 
-tags = ["open-data", "open-science", "data-altruism", "data-observatory", "datathon", "competition"]
+tags = ["open data", "open science", "data-altruism", "data-observatory", "datathon", "competition"]
 
 summary = "Reprex, a Dutch start-up enterprise formed to utilize open source software and open data in open collaboration with its partners is contesting all three challenges of the EU Datathon 2021 Prizes."
 

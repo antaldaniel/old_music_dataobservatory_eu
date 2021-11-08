@@ -35,7 +35,7 @@ projects = ["R", "market-report"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["CEEMID", "music-industry", "hungary"]
+tags = ["CEEMID", "music industry", "hungary"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

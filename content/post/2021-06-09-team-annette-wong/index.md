@@ -7,7 +7,7 @@ draft = false
 
 authors = ["annette_wong"]
 
-tags = ["open-data", "open-science", "trustworthy AI", "service-design", "communication"]
+tags = ["open data", "open science", "trustworthy AI", "service-design", "communication"]
 
 summary = "101 Dalmatians was released in 1985 and 1991 which made thousands of families (in the U.S.) want to adopt one. The American Kennel Club reported that the annual number of Dalmatian puppies registered skyrocketed from 8,170 animals to 42,816."
 

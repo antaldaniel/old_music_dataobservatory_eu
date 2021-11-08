@@ -9,7 +9,7 @@ date = 2020-11-12T08:00:00
 summary = "Reproducible (automatically refreshing) advocacy reports, valuation and grant assessment reports, regulatory filings"
 
 # Tags: can be used for filtering projects.
-tags = ["ceemid", "surveys", "music-industry"]
+tags = ["CEEMID", "surveys", "music industry"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

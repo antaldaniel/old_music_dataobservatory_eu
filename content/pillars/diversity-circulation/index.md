@@ -11,7 +11,7 @@ lastmod = 2021-11-05T12:30:00
 summary = "Music diversity and circulation is a crucial policy and business goal for European music stakeholders. Most European creators work in small countries, often confined to the audiences of a not widely spoken language; moreover, they are in competition with the entire world via media platforms, streaming services and traditional record sales."
 
 # Tags: can be used for filtering projects.
-tags = ["ceemid", "surveys", "Digital Music Observatory"]
+tags = ["CEEMID", "surveys", "Digital Music Observatory"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

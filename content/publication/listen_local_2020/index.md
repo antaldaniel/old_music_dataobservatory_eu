@@ -17,7 +17,7 @@ abstract = "Why are the total market shares of Slovak music relatively low both 
 featured = true
 
 # Projects (optional).
-projects = ["listen-local"]
+projects = ["Listen Local"]
 
 # Slides (optional).
 #   `content/slides/example-slides.md`.

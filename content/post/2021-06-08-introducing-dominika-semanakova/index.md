@@ -7,11 +7,11 @@ draft = false
 
 authors = ["dominika_semanakova"]
 
-tags = ["open-data", "listen-local", "trustworthy AI", "culture policy",  "musicology", "Slovakia"]
+tags = ["open data", "Listen Local", "trustworthy AI", "culture policy",  "musicology", "Slovakia"]
 
 summary = "The idea behind Listen Local is simple: we want machine learning algorithms of Spotify, YouTube, or other services to learn more about Slovak music.  In order to make machines learn about Slovak music, we have to make machine-readable tables of Slovak music for AI learners"
 
-projects = ["eu-datathon_2021", "listen-local"]
+projects = ["eu-datathon_2021", "Listen Local"]
 
 # Featured image
 [image]

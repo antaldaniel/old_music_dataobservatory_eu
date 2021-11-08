@@ -10,7 +10,7 @@ lastmod = 2020-11-11T14:30:00+02:00
 summary = "We want reduce data inequalities within Western and Eastern, Northern and Southern Europe, and contribute to a transparent data observatory that is inclusive for all."
 
 # Tags: can be used for filtering projects.
-tags = ["ceemid", "surveys", "music-industry", "music-observatory", "reproducible-research"]
+tags = ["CEEMID", "surveys", "music industry", "Digital Music Observatory", "reproducible research"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

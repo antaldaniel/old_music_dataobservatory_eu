@@ -7,7 +7,7 @@ draft = false
 
 authors = ["eszter_kabai"]
 
-tags = ["open-data", "open-science", "computational antitrust", "royalties", "curators"]
+tags = ["open data", "open science", "computational antitrust", "royalties", "curators"]
 
 summary = "For my daily tasks data would be needed for setting the price of the different licenses and, or identifying the works that were used, exploited, to properly manage the payouts to the rights holders."
 

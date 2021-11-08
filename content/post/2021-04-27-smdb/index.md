@@ -6,7 +6,7 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-project = ["listen-local"]
+project = ["Listen Local"]
 
 tags = ["YouTube", "Slovakia", "mapping", "database"]
 

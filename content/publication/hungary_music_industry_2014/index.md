@@ -26,7 +26,7 @@ abstract_short = "The first comprehensive music industry report in Hungary and i
 selected = true
 
 # Projects (optional).
-projects = ["music-report"]
+projects = ["music report"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -38,7 +38,7 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["market-report", "Hungary", "music-industry"]
+tags = ["market-report", "Hungary", "music industry"]
 
 # Links (optional).
 url_pdf = "http://www.zeneipar.info/letoltes/proart-zeneipari-jelentes-2015.pdf"

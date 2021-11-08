@@ -11,7 +11,7 @@ lastmod = 2021-10-21T17:00:00
 summary = "CEEMID was multi-country project that was a predecessor of Reprex’s Digital Music Observatory."
 
 # Tags: can be used for filtering projects.
-tags = ["ceemid", "surveys", "Digital Music Observatory"]
+tags = ["CEEMID", "surveys", "Digital Music Observatory"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

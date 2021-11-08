@@ -7,7 +7,7 @@ draft = false
 
 authors = ["suzan_sidal"]
 
-tags = ["open-data", "open-science", "reproducible research", "business case", "urban heat", "climate change mitigation"]
+tags = ["open data", "open science", "reproducible research", "business case", "urban heat", "climate change mitigation"]
 
 summary = "Facilitating private-public partnerships is one step to encourage the data community to work with valuable open data. However, transparency and a high level quality assurance step must be given. In a joint collaboration with data curators, developers, technical specialists and academics, the datasets should be retrieved, cleaned and assessed in order to deliver efficient, relevant and credible information. The constant monitoring and regulation as well as compliance with data security guidelines are indispensable."
 

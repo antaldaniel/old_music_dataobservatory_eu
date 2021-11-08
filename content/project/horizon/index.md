@@ -10,7 +10,7 @@ date = 2020-10-14T10:00:00
 summary = "Our open collaboration platform is looking for partners for the Horizon Europe call Towards a competitive, fair and sustainable European music ecosystem."
 
 # Tags: can be used for filtering projects.
-tags = ["listen-local", "ai", "recommendations"]
+tags = ["Listen Local", "ai", "recommendations"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

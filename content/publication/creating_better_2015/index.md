@@ -27,10 +27,10 @@ featured = true
 
 # Projects (optional).
 
-projects = ["market-report", "opendata", "ceemid"]
+projects = ["market-report", "open data", "CEEMID"]
 
 # Tags (optional).
-tags = ["statistics", "CAP", "survey", "methodology", "PSI", "open-data"]
+tags = ["statistics", "CAP", "survey", "methodology", "PSI", "open data"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.

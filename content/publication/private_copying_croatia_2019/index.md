@@ -19,7 +19,7 @@ abstract_short = "The first measurement of licensed use of music, audiovisual co
 featured = true
 
 # Projects (optional).
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

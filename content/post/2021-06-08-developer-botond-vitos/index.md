@@ -7,11 +7,11 @@ draft = true
 
 authors = ["botond_vitos"]
 
-tags = ["open-data", "open-science", "trustworthy AI","listen-local", "musicology", "Bandcamp"]
+tags = ["open data", "open science", "trustworthy AI","Listen Local", "musicology", "Bandcamp"]
 
 summary = "I believe that with curators' priorities and the development of an easily accessible, open API, we are moving in the right direction."
 
-projects = ["eu-datathon_2021", "listen-local"]
+projects = ["eu-datathon_2021", "Listen Local"]
 
 # Featured image
 [image]

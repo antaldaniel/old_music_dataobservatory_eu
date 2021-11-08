@@ -9,7 +9,7 @@ authors = ["Daniel Antal, CFA"]
 
 tags = ["CEEMID", "open data", "music demand"]
 
-projects = ["music-observatory"]
+projects = ["Digital Music Observatory"]
 
 summary = "In the preparation to make the CEEMID available as an open-source data integration platform and as a source of open data for the European Music Observatory, the first regional dataset was published today."
 

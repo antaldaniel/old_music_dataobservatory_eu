@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["open-data", "open-science", "regional data","valuation", "United Kingdom"]
+tags = ["open data", "open science", "regional data","valuation", "United Kingdom"]
 
 summary = "Our Digital Music Observatory contributed to the Music Creators’ Earnings in the Streaming Era project with understanding the level of justified and unjustified differences in rightsholder earnings, and putting them into a broader music economy context. The entire research paper is published by the UK Intellectual Property office, and we made the details of our analysis available in a joint publication."
 
