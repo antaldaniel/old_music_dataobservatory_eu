@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["music industry","data-as-service", "API", "metadata", "FAIR principle", "radio"]
+tags = ["music","data-as-service", "API", "metadata", "FAIR principle"]
 
 summary = "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody?  We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable. To start with, it is not always easy to find."
 
