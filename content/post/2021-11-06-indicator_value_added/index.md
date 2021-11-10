@@ -9,7 +9,7 @@ authors = ["daniel_antal"]
 
 tags = ["music","data-as-service", "API", "metadata"]
 
-summary = "Public data sources are often plagued by missng values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, just malformatted information which will destroy your beautiful visualization or stop your application from working. In this example we show how we increase the usable subset of a public dataset by 66.7%, which is a deal-breaker in panel regressions or machine learning (AI) solutions."
+summary = "Public data sources are often plagued by missing values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, just malformatted information which will destroy your beautiful visualization or stop your application from working. In this example we show how we increase the usable subset of a public dataset by 66.7%, which is a deal-breaker in panel regressions or machine learning (AI) solutions."
 
 projects = ""
 
@@ -38,7 +38,6 @@ Completing missing datapoints requires statistical production information (why m
 International organizations offer many statistical products, but usually they are on an ‘as-is’ basis. For example, Eurostat is the world’s premiere statistical agency, but it has no right to overrule whatever data the member states of the European Union, and some other cooperating European countries give to them. And they cannot force these countries to hand over data if they fail to do so. As a result, there will be many data points that are missing, and often data points that have wrong (obsolete) descriptions or geographical dimensions. We will show the geographical aspect of the problem in a separate blogpost; for now, we only focus on missing data.
 
 Some countries have only recently started providing data to the Eurostat umbrella organization, and it is likely that you will find few datapoints for North Macedonia or Bosnia-Herzegovina. Other countries provide data with some delay, and the last one or two years are missing. And there are gaps in some countries’ data, too.
-
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/trb_plot.png" caption="See the authoritative copy of the [dataset](https://zenodo.org/record/5652118#.YYkhVmDMKUk)." numbered="false" >}}</td>
 
@@ -70,8 +69,6 @@ Our codebooks and our API uses the [Statistical Data and Metadata eXchange](http
 This example highlights another important aspect of data trustworthiness. If you have a better idea, you can replace them with a better estimate.  
 
 Our indicators come with standardized codebooks that do not only contain the descriptive metadata, but administrative metadata about the history of the indicator values. You will find very important information about the statistical method we used the fill in the data gaps, and even link the reliable, the peer-reviewed scientific, statistical software that made the calculations. For data scientists, we record the plenty of information about the computing environment, too-–this can come handy if your estimates need external authentication, or you suspect a bug.
-
-## Avoid the data Sisyphus
 
 ## Avoid the data sisyphus
 
