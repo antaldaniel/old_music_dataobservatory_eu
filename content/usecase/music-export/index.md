@@ -10,7 +10,7 @@ summary = "Understanding how concerts, festival audiences and recordings are cro
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["royalties", "pcr"]`
-tags = ["music export"]
+tags = ["music export", "circulation", "music diversity"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

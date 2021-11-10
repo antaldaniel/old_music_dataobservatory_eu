@@ -5,7 +5,6 @@ tags:
 - metadata
 
 date: "2021-07-07T00:00:00Z"
-lastmod: "2021-11-10T13:15:00+01:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -18,15 +17,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/DigitalMusicObs
+  url: https://twitter.com/EconDataObs
 - icon: linkedin
   icon_pack: fab
   name: Connect
-  url: https://www.linkedin.com/company/79286750/
-- icon: database
-  icon_pack: fas
-  name: Try API
-  url: https://api.music.dataobservatory.eu/
+  url: https://www.linkedin.com/company/78562153/
 - icon: github
   icon_pack: fab
   name: Code
@@ -34,7 +29,7 @@ links:
 - icon: book-open
   icon_pack: fas
   name: Documentation
-  url: https://documentation.music.dataobservatory.eu/
+  url: https://r.dataobservatory.eu/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -60,8 +55,6 @@ Metadata gets less attention than data, because it is never acquired separately,
 
 Organizations pay many times for the same, repeated work, because these boring tasks, which often comprise of tens of thousands of microtasks, are neglected. Our solution creates automatic documentation and metadata for your own historical internal data or for acquisitions from data vendors. We apply the more general [Dublin Core](#Dublin-Core) and the more specific, mandatory and recommended values of [DataCite](#DataCite) for datasets -- these are new requirements in EU-funded research from 2021. But they are just the minimal steps, and there is a lot more to do to create a diamond ring from an uncut gem.
 
-<td style="text-align: center;">{{< figure src="/media/img/observatory_screenshots/DMO_API_metadata_table.png" caption="All our indicators come with standardized descriptive metadata, and statistical (processing) metadata. See our [API](https://api.music.dataobservatory.eu/database/metadata/) " numbered="false" >}}</td>
-
 ## Map your data: bibliographis, catalogues, codebooks, versioning
 
 Updating descriptive metadata, such as bibliographic citation files, descriptions and sources to data files downloaded from the internet, versioning spreadsheet documents and presentations is usually a hated and often neglected task withing organization, and rightly so: these boring and error-prone tasks are best left to computers. 
@@ -76,26 +69,15 @@ The lack of time and resources spend on documentation over time reduces reusabil
 
 In other words: very easy to import into your databases, or join with other databases, and the information is easy to find.  Corrections, updates can automatically managed.
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/zenodo_metadata_eurostat_radio_broadcasting_turnover.png" caption="We [added descriptive metadata](https://zenodo.org/record/5652113#.YYkVBWDMKUk) that help you find our data and match it with other relevant data sources." numbered="false" >}}</td>
 
 ## What happened with the data before?
 
-Our passion for documentation standards and best practices goes much further: our data uses [Statistical Data and Metadata eXchange](https://sdmx.org/?page_id=3215/) standardized codebooks, unit descriptions and other statistical and administrative metadata.
+
+- [x] We are creating Codebooks that are following the SDMX statistical metadata codelists, and resemble the SMDX concepts used by international statistical agencies. (See more technical information [here](https://r.dataobservatory.eu/articles/codebook.html).)
 
 Small organizations often cannot afford to have data engineers and data scientists on staff, and they employ analysts who work with Excel, OpenOffice, PowerBI, SPSS or Stata.  The problem with these applications is that they often require the user to manually adjust the data, with keyboard entries or mouse clicks.  Furthermore, they do not provide a precise logging of the data processing, manipulation history.
-
 The manual data processing and manipulation is very error prone and makes the use of complex and high value resources, such as harmonized surveys or symmetric input-output tables, to name two important source we deal with, impossible to use.  The use of these high-value data sources often requires tens of thousands of data processing steps: no human can do it faultlessly.
 
 What is even more problematic that simple applications for analysis do not provide a log of these manipulations’ steps: pulling over a column with the mouse, renaming a row, adding a zero to an empty cell. This makes senior supervisory oversight and external audit very costly. 
 
 Our data comes with full history: all changes are visible, and we even open the code or algorithm that processed the raw data.  Your analysts can still use their favourite spreadsheet or statistical software application, but they can start from a clean, tidy dataset, with all data wrangling, currency and unit conversion, imputation and other low-priority but important tasks done and logged.
-
-<td style="text-align: center;">{{< figure src="/media/img/reports/european_visbility_publication.png" caption="We participate in [scientific work](https://reprex.nl/publication/european_visibilitiy_2021/) related to data interoperability." numbered="false" >}}</td>
-
-
-
-
-
-
-
-

@@ -2,9 +2,8 @@
 title: Data Processing
 summary: We create high value key business and policy evaluation indicators. Scientific proofs require the combination of correctly matching, formatting, and verifying controlled pieces of data. Our data comes from verified and legal sources, with information about use rights and a complete history. You can always take a look at the processing code, too. We do not deal in blood diamonds.
 tags:
-- "data processing""
+- data-processing
 date: "2021-01-21T00:00:00Z"
-lastmod: "2021-11-10T13:15:00+01:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,11 +16,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/DigitalMusicObs
+  url: https://twitter.com/EconDataObs
 - icon: linkedin
   icon_pack: fab
   name: Connect
-  url: https://www.linkedin.com/company/79286750/
+  url: https://www.linkedin.com/company/78562153/
 - icon: fa-lightbulb
   icon_pack: fas
   name: Get Inspired
@@ -45,4 +44,3 @@ slides: data-curation
 
 *Data analysts spend 80% of their time on data processing, even though computers can perform these task much faster, with far less     errors, and they can document the process automatically. Data processing can be shared: an analyst in a company and an analyst in an      NGO does not have to reprocess the very same data twice**
 
-See our blogpost [How We Add Value to Public Data With Better Curation And Documentation?](post/2021-11-08-indicator_findable/).

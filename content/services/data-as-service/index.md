@@ -5,7 +5,7 @@ tags:
 - daas
 - api
 date: "2021-01-21T00:00:00Z"
-lastmod: "2021-11-10T13:15:00+01:00"
+lastmod: "2021-07-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -18,15 +18,15 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/DigitalMusicObs
+  url: https://twitter.com/EconDataObs
 - icon: linkedin
   icon_pack: fab
   name: Connect
-  url: https://www.linkedin.com/company/79286750/
+  url: https://www.linkedin.com/company/78562153/
 - icon: database
   icon_pack: fas
   name: Try API
-  url: https://api.music.dataobservatory.eu/
+  url: https://api.economy.dataobservatory.eu/
 - icon: book-open
   icon_pack: fas
   name: Documentation
@@ -46,8 +46,6 @@ slides: example
 
 
 **We want to ensure that individual researchers, artists, and professionals, as well as NGOs and small and large organizations can benefit equally from big data in the age of artificial intelligence.** 
-
-See our blogpost [How We Add Value to Public Data With Better Curation And Documentation?](post/2021-11-06-indicator_value_added/).
 
 Big data creates inequality and injustice because it is only the big corporations, big government agencies, and the biggest, best endowed universities that can finance long-lasting, comprehensive data collection programs. Big data, and large, well-processed, tidy, and accurately imputed datasets allow them to unleash the power of machine learning and AI. These large entities are able to create algorithms that decide the commercial success of your product and your artwork, giving them a competitive edge against smaller competitors while helping them evade regulations.
 
