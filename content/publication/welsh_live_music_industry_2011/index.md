@@ -21,7 +21,7 @@ featured = false
 # Projects (optional).
 projects = ["music-reports"]
 
-tags = ["market-report", "live-music", "Wales", "United Kingdom"]
+tags = ["market-report", "live music", "Wales", "United Kingdom"]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

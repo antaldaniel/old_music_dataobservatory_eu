@@ -11,7 +11,7 @@ lastmod = 2021-11-05T12:30:00
 summary = "The Digital Muisc Observatory monitors the music markets with an economic methodology: we not only measure market volumes and prices, but we also measure both demand- and supply side indicators so that we can forecast future market volumes or prices."
 
 # Tags: can be used for filtering projects.
-tags = ["music demand", "music suppy", "valuations", "pcr", "recommendations", "value gap", "music industry"]
+tags = ["music demand", "music suppy", "valuations", "private copying", "recommendations", "value gap", "music industry"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

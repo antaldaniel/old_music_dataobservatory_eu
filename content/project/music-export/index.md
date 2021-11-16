@@ -9,7 +9,7 @@ lastmod = 2020-10-27T10:00:00+02:00
 summary = "Understanding how concerts, festival audiences and recordings are crossing borders"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["royalties", "pcr"]`
+# Example: `tags = ["royalties", "private copying"]`
 tags = ["music export"]
 
 # Optional external URL for project (replaces project detail page).

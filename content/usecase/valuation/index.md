@@ -8,7 +8,7 @@ date = 2020-11-12T11:00:00
 # Project summary to display on homepage.
 summary = "Valuing music and projecting royalty flows."
 
-tags = ["royalties", "pcr", "valuation"]
+tags = ["royalties", "private copying", "valuation"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
