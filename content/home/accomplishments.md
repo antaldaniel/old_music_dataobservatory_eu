@@ -25,7 +25,6 @@ date_format = "Jan 2006"
   title = "Our Music Observatory in the Jump European Music Market Accelerator"
   url = "post/2021-03-04-jump-2021/"
   date_start = "2021-03-04"
-  date_end = ""
   description = ""
 
 
