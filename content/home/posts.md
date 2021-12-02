@@ -67,4 +67,4 @@ subtitle = "Demo Music Observatory highlights from Data & Lyrics"
  css_class = ""
 +++
 
-For our more comprehensive blog, please visit [Data & Lyrics](https://dataandlyrics.com/post/)
+For our more comprehensive blog, please visit [Data & Lyrics](https://dataandlyrics.com/post/). For the tag cloud, visit [Topics](/#tags) at the bottom of the page.
