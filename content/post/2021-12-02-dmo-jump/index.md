@@ -1,8 +1,8 @@
 +++
 title = "Jumping Ahead With the Digital Music Observatory"
 subtitle = "The Digital Music Observatory in the JUMP European Music Market Accelerator"
-date = 2021-12-02T013:00:00+01:00
-lastmod = 2021-12-02T013:00:00+01:00
+date = 2021-12-02T13:00:00+01:00
+lastmod = 2021-12-02T13:00:00+01:00
 draft = false
 
 authors = ["daniel_antal"]
@@ -29,7 +29,7 @@ Our [Digital Music Observatory](https://music.dataobservatory.eu/) project spent
 
 The Digital Music Observatory is one of the several initiatives to fill the data gaps of the fragmented European music ecosystems.  While most of Europe’s music is available and promoted on data-heavy, AI-driven autonomous platforms like TikTok, Spotify, YouTube, Deezer, music labels, publishers, national expoert offices are lacking the necessary data solutions to remain competitive.
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Daniel_Antal_JUMP_Linecheck_20211124.png" caption="Daniel is pitching for partnership with Music Tech Europe on Linechech and finding a music city that wants to be the seat of the future European Music Observatory. Photo: [Wen Liu](http://www.festivalmars.com/?board_member=wen-liu/)" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Daniel_Antal_JUMP_Linecheck_20211124.jpg" caption="Daniel is pitching for partnership with Music Tech Europe on Linechech and finding a music city that wants to be the seat of the future European Music Observatory. Photo: [Wen Liu](http://www.festivalmars.com/?board_member=wen-liu/)." numbered="false" >}}</td>
 
 One of the recouring themes of 2021 was the notion that the music streaming economy is broken. Several JUMP fellows are working on various projects that aim to fix this, and our Digital Music Observatory has both the data and track record to provide evidence and test ideas about possible solutions – change in pricing, better targeting in export and domestic markets, and checking for algorithmic biases. See what we have done in the field this year in the UK IPO-initiated [Music Creators' Earning](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/) project; [understanding algorithmic recommendation problems](https://music.dataobservatory.eu/publication/listen_local_2020/) 
 with the support of the Slovak Arts Council, and making recommendations about [better music metadata and copyright regulation](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/) with our research consortium.
