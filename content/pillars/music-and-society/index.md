@@ -5,12 +5,12 @@ subtitle = "Indicators related to music participation and access in European soc
 
 # Date this page was created.
 date = 2020-11-12T11:00:00
-lastmod = 2021-11-05T12:30:00
+lastmod = 2022-02-08T11:24:00
 
 # Project summary to display on homepage.
 summary = "Valuing music and projecting royalty flows."
 
-tags = ["music participation", "audience"]
+tags = ["music participation", "audience", "Music and Society"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -42,6 +42,257 @@ url_code = ""
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
+
+
+We will mainly rely on the integration of existing, but fragmented and
+not well-formatted data, and existing, but not processed and not
+published data to create pan-European indicators for the music and
+society section.
+
+<table class=" lightable-classic lightable-striped" style="font-size: 14px; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;">
+<thead>
+<tr>
+<th style="padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; font-weight: bold; font-size: 24px;" colspan="4">
+
+Pillar 3 - Music & Society
+
+</th>
+</tr>
+<tr>
+<th style="padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; text-decoration: underline; font-size: 18px;" colspan="2">
+
+Topic
+
+</th>
+<th style="padding-bottom:0; padding-left:3px;padding-right:3px;text-align: center; text-decoration: underline; font-size: 18px;" colspan="2">
+
+Description
+
+</th>
+</tr>
+<tr>
+<th style="text-align:center;">
+pillar
+</th>
+<th style="text-align:center;">
+problem
+</th>
+<th style="text-align:center;">
+availability
+</th>
+<th style="text-align:center;">
+feasibility
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center;width: 10em; font-family: monospace;">
+<span
+style="     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;">Pillar
+3</span>
+</td>
+<td style="text-align:center;width: 15em; font-family: monospace;">
+Music schools and conservatories
+</td>
+<td style="text-align:center;width: 20em; ">
+Data gap
+</td>
+<td style="text-align:center;width: 60em; ">
+National statistical institutes, government data
+</td>
+</tr>
+<tr>
+<td style="text-align:center;width: 10em; font-family: monospace;">
+<span
+style="     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;">Pillar
+3</span>
+</td>
+<td style="text-align:center;width: 15em; font-family: monospace;">
+Music education - formal practices
+</td>
+<td style="text-align:center;width: 20em; ">
+Data gap
+</td>
+<td style="text-align:center;width: 60em; ">
+National statistical institutes, government data, European Association
+for Music in Schools.
+</td>
+</tr>
+<tr>
+<td style="text-align:center;width: 10em; font-family: monospace;">
+<span
+style="     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #BAC615 !important;font-size: 16px;">Pillar
+3</span>
+</td>
+<td style="text-align:center;width: 15em; font-family: monospace;">
+Music education - informal practices
+</td>
+<td style="text-align:center;width: 20em; ">
+Data gap
+</td>
+<td style="text-align:center;width: 60em; ">
+The Feasibility Study did not address this, but in popular music,
+informal learning practices are far-far more important. We will address
+this issues.
+</td>
+</tr>
+<tr>
+<td style="text-align:center;width: 10em; font-family: monospace;">
+<span
+style="     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;">Pillar
+3</span>
+</td>
+<td style="text-align:center;width: 15em; font-family: monospace;">
+Training schemes for music professionals
+</td>
+<td style="text-align:center;width: 20em; ">
+Data gap
+</td>
+<td style="text-align:center;width: 60em; ">
+Lack of European data on the state of training for music professionals
+</td>
+</tr>
+<tr>
+<td style="text-align:center;width: 10em; font-family: monospace;">
+<span
+style="     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;">Pillar
+3</span>
+</td>
+<td style="text-align:center;width: 15em; font-family: monospace;">
+Training schemes for artist
+</td>
+<td style="text-align:center;width: 20em; ">
+Data gap
+</td>
+<td style="text-align:center;width: 60em; ">
+Lack of European data on the state of training for artists.
+</td>
+</tr>
+<tr>
+<td style="text-align:center;width: 10em; font-family: monospace;">
+<span
+style="     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;">Pillar
+3</span>
+</td>
+<td style="text-align:center;width: 15em; font-family: monospace;">
+Music education
+</td>
+<td style="text-align:center;width: 20em; ">
+Data gap
+</td>
+<td style="text-align:center;width: 60em; ">
+Lack of European data on the state of music education.
+</td>
+</tr>
+<tr>
+<td style="text-align:center;width: 10em; font-family: monospace;">
+<span
+style="     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;">Pillar
+3</span>
+</td>
+<td style="text-align:center;width: 15em; font-family: monospace;">
+Consumer patterns regarding piracy and its impact on the music sector
+</td>
+<td style="text-align:center;width: 20em; ">
+Available
+</td>
+<td style="text-align:center;width: 60em; ">
+Some countries like France with Hadopi have attempted to evaluate the
+way consumers access illegally music while setting up educational
+campaigns on piracy, similar to the UK initiative Get It Right.
+Materials/studies are also provided by EUIPO.
+</td>
+</tr>
+<tr>
+<td style="text-align:center;width: 10em; font-family: monospace;">
+<span
+style="     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;">Pillar
+3</span>
+</td>
+<td style="text-align:center;width: 15em; font-family: monospace;">
+EU consumers and music
+</td>
+<td style="text-align:center;width: 20em; ">
+Data gap
+</td>
+<td style="text-align:center;width: 60em; ">
+No authoritative assessment of the relationship between consumers and
+music at pan-European level
+</td>
+</tr>
+<tr>
+<td style="text-align:center;width: 10em; font-family: monospace;">
+<span
+style="     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;">Pillar
+3</span>
+</td>
+<td style="text-align:center;width: 15em; font-family: monospace;">
+Social networks and music
+</td>
+<td style="text-align:center;width: 20em; ">
+Data gap
+</td>
+<td style="text-align:center;width: 60em; ">
+No authoritative assessment of how European consumers interact with
+music on social networks
+</td>
+</tr>
+<tr>
+<td style="text-align:center;width: 10em; font-family: monospace;">
+<span
+style="     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00843A !important;font-size: 16px;">Pillar
+3</span>
+</td>
+<td style="text-align:center;width: 15em; font-family: monospace;">
+Consumer patterns regarding piracy and its impact on the music sector
+</td>
+<td style="text-align:center;width: 20em; ">
+Available
+</td>
+<td style="text-align:center;width: 60em; ">
+Limited pan-European data on the impact of piracy but also on the
+motivations to consumer music content via illegal sources. EUIPO does
+have some data on the economic cost of IPR infringement in the recorded
+music industry.
+</td>
+</tr>
+<tr>
+<td style="text-align:center;width: 10em; font-family: monospace;">
+<span
+style="     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #DB001C !important;font-size: 16px;">Pillar
+3</span>
+</td>
+<td style="text-align:center;width: 15em; font-family: monospace;">
+Scope of the not-for-profit sector in Europe
+</td>
+<td style="text-align:center;width: 20em; ">
+Data gap
+</td>
+<td style="text-align:center;width: 60em; ">
+No mapping of the not-for-profit music sector in Europe, in particular
+in exposing new talent and forging social cohesion.
+</td>
+</tr>
+<tr>
+<td style="text-align:center;width: 10em; font-family: monospace;">
+<span
+style="     color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FAE000 !important;font-size: 16px;">Pillar
+3</span>
+</td>
+<td style="text-align:center;width: 15em; font-family: monospace;">
+Social impact of music in communities
+</td>
+<td style="text-align:center;width: 20em; ">
+Data gap
+</td>
+<td style="text-align:center;width: 60em; ">
+Although there is some academic research available, there is no
+co-ordination of research on the social impact of music in Europe.
+</td>
+</tr>
+</tbody>
+</table>
 
 CEEMID has collected hundreds of indicators since 2014 on this topic. We would like to invite our partners to find a few relevant indicators and publish them here. Some of these indicators require explicit permission from public bodies or from partners, given existing data acquisition costs.
 
