@@ -62,7 +62,8 @@ user_groups:
 
 The [Digital Music Observatory](project/music-observatory/)  is a fully automated, open source, open data observatory that links public datasets in order to provide a comprehensive view of the European music industry. The DMO produces key business and policy indicators that enable the growth of music business strategies and national music policies in a way that works both for music lover audiences and the creative enterprises of the sector, and contributes to a more competitive, fair and sustainable European music ecosystem. 
 
-{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/documents/Digital_Music_Observatory.pdf" "newtab" >}}introduction{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/documents/Digital_Music_Observatory.pdf" "newtab" >}}introduction{{< /staticref >}}. {{< icon name="fa-sun" pack="fas" >}} We are committed to the {{< staticref "https://www.bitss.org/opa/community-standards/" "newtab" >}}Guidelines for Open Policy Analysis{{< /staticref >}}.
+
 
 Our data pillars are following the structure laid out in the [Feasibility study for the establishment of a European Music Observatory](post/2020-11-16-european-music-observatory-feasibility/): [Music Economy](/pillars/music-and-society/); [Diversity & Circulation](/pillars/diversity-circulatoin/); [Music & Society](/pillars/music-and-society/) and [Innovation - innovative data applications](/#usecases)
 
