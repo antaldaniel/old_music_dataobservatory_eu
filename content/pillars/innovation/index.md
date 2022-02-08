@@ -36,7 +36,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "Photo: [Sašo Tušar](https://unsplash.com/photos/QtgGYlug6Cw?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
