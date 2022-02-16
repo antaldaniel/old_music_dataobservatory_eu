@@ -25,16 +25,13 @@ summary = "Our ambition is to build a comprehensive data source and online data 
 
 +++
 
-
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/creative_flip_brussels_2020.jpg" caption="Presenting our [Central & Eastern European Music Industry Report 2020](https://music.dataobservatory.eu/publication/ceereport_2020/) as a case-study on [evidence-based policymaking](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) in the two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture." numbered="false" >}}</td>
-
-Our ambition is to build a comprehensive data source and online data
+**Our ambition is to build a comprehensive data source and online data
 analysis tools for the European music industry. This requires a map of
 the music ecosystem — we need to understand where value is created and
 money is exchanged, and we need to observe how much is this value and
-how much is being paid for it.
+how much is being paid for it.*
 
-The value chain is a concept describing the full chain of a business’s
+The value chain is a concept describing the full chain of a businesses'
 activities in the creation of a product or service – from the initial
 reception of materials all the way through its delivery to market, and
 everything in between. Some services, like car manufacturing and banking
@@ -46,10 +43,9 @@ to deliver projects.
 
 Our initial view of the European music value chain is depicted in the
 chart. Our initial view of the European music value chain is depicted in
-the chart. If you think we put something in the wrong place, or you do
-not find an activity important to you: let us know!
+the chart. 
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/Music_value_chain.png" caption="Our pioneering streaming volume and price [indexes](https://ceereport2020.ceemid.eu/market.html#ceemid-ci-volume-indexes) are similar in design to bond- and stock market indexes." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/Music_value_chain.png" caption="If you think we put something in the wrong place, or you do not find an activity important to you:  [let us know!](https://reprex.nl/#contact)." numbered="false" >}}</td>
 
 Our value chain model was perfected in various research and development
 projects that aimed to understand the problems and increase the revenues
@@ -75,17 +71,17 @@ The value chain is a good tool to localize information sources and plan
 to collect data in a systematic way. For example, in the case of our
 music value chain we must focus on some challenges:
 
--   Unlike in other industries, most hours of music are listened to
+- [x]   Unlike in other industries, most hours of music are listened to
     without paying consumers (radio, YouTube, ad-supported streams, home
     copying, torrenting). Understanding the advertising revenue streams
     is important.
 
--   The music industry is both very local and global. Small labels sell
+-  [x]  The music industry is both very local and global. Small labels sell
     all over the world on digital platforms. But they should focus on
     markets where there is an interest for their music or where the
     prices are high, where they have a real chance to get playlisted.
 
--   We must understand why some languages, or women are disadvantaged in
+-  [x] We must understand why some languages, or women are disadvantaged in
     this value chain, and what intervention can help this situation.
 
 The aim of our mapping is to help the industry solve real problems: keep
@@ -98,12 +94,10 @@ subsequent blogpost.
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/full_market_example.jpg" caption="" numbered="false" >}}</td>
 
-You can read more about it in our dynamic [The Relevant Market for Music Streaming: Market Definition and Measurement Challenges](https://music-competition.dataobservatory.eu/) document is a versioned work-in-progress publication, available from the Zenodo open
+
+{{% callout note %}} You can read more about it in our dynamic [The Relevant Market for Music Streaming: Market Definition and Measurement Challenges](https://music-competition.dataobservatory.eu/) document is a versioned work-in-progress publication, available from the Zenodo open
 science repository and our opinion on the UK competition authorities
 music streaming market inquiry (Competition & Markets Authority 2022).
-
-
-{{% callout note %}} See [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/) - [Central European Music Industry Rerpot](https://music.dataobservatory.eu/publication/ceereport_2020/) - business confidential repertoire valuations - predictive modelling.
 {{% /callout %}}
 
 ## References
