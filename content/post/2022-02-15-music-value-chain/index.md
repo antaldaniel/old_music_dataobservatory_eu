@@ -1,8 +1,8 @@
 +++
 title = "The Music Value Chain"
-subtitle = "Towards a competitive, fair and sustainable European music ecosystem"
-date = 2021-02-15T17:00:00+01:00
-lastmod = 2021-02-1608:15:00+01:00
+subtitle = "A map of the music ecosystem"
+date = 2022-02-15T17:00:00+01:00
+lastmod = 2022-02-16T08:15:00+01:00
 draft = false
 
 authors = ["daniel_antal"]
