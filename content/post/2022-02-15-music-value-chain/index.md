@@ -14,7 +14,7 @@ summary = "Our ambition is to build a comprehensive data source and online data 
 # Featured image
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "The Music Industry Value Chain [reuse>](https://figshare.com/articles/figure/The_Music_Industry_Value_Chain/19174310)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -29,7 +29,7 @@ summary = "Our ambition is to build a comprehensive data source and online data 
 analysis tools for the European music industry. This requires a map of
 the music ecosystem — we need to understand where value is created and
 money is exchanged, and we need to observe how much is this value and
-how much is being paid for it.*
+how much is being paid for it.**
 
 The value chain is a concept describing the full chain of a businesses'
 activities in the creation of a product or service – from the initial
@@ -42,8 +42,7 @@ small-and medium sized or large enterprises that form a creative network
 to deliver projects.
 
 Our initial view of the European music value chain is depicted in the
-chart. Our initial view of the European music value chain is depicted in
-the chart. 
+chart. 
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/Music_value_chain.png" caption="If you think we put something in the wrong place, or you do not find an activity important to you:  [let us know!](https://reprex.nl/#contact)." numbered="false" >}}</td>
 
