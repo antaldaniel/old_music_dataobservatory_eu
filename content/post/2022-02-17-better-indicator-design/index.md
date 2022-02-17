@@ -27,7 +27,7 @@ summary = "We want to create open indicators that business users, music organiza
 
 Many people only trust statistics from the Eurostat service, a U.S. federal service, or from their national statistical offices. Our data provided by market research firms with a premium price.  Our aim is to create open key business performance indicators, evidence-based policy indicators and other statistical indicators for academic research that has a similar or higher level of usability, reliability, and quality. We want to fill the data gaps for the Music Economy, the Diversity of Circulation of European Music, Music & Society and Music Innovation data left by public authorities and international organization with timely, easy-to-import, easy to use indicators and visualizations.
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Eurostat_using_indicators_way_communicating_captioned.png" caption="We follow the Eurostat indicator design guidelines to make sure that our users – cultural ministries, representative organizations of music, large music organization and companies, researcher get the information that they need in usable and precise indicators." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Eurostat_using_indicators_way_communicating_captioned.jpg" caption="We follow the Eurostat indicator design guidelines to make sure that our users – cultural ministries, representative organizations of music, large music organization and companies, researcher get the information that they need in usable and precise indicators." numbered="false" >}}</td>
 
 Our quality assurance program is sometimes the same as in national statistical offices, and sometimes it is different.  We use only open-source statistical software, and we follow the [Open Policy Analysis Guidelines](https://reprex.nl/project/opa/) for full transparency in our data handling.  We send both our software code and our results to scientific peer review, which is often more rigorous than other internal quality controls.  We use so-called computerized *unit-tests*, often almost 100 of them, that search for signs of any data corruption.
 
@@ -39,7 +39,6 @@ Our quality assurance program is sometimes the same as in national statistical o
 
 -	[x] We have a similar [Rest API](https://api.music.dataobservatory.eu/) to the Eurostat data warehouse for automatic database connections.  But we always make sure that the data is available in the easiest to use form for SPSS, STATA, Excel, Numbers, or OpenOffice.
 
-
-{{% callout note %}}Currently we have only ad hoc funding, and we could not process all the data we have. In fact, we have more than 1000 indicators in our treasure trove --- if you need something, just [contact us]((https://reprex.nl/#contact)) and ask, we are more than likely to be able to give you something. 
+{{% callout note %}}Currently we have only ad hoc funding, and we could not process all the data we have. In fact, we have more than 1000 indicators in our treasure trove --- if you need something, just [contact us]((https://reprex.nl/#contact)) and ask, we are more than likely to be able to give you something. If you need more data, consider joining or [R&D Consortium](https://rpubs.com/antaldaniel/hu_risk_assessment) as a music sector affiliated partner to seek EU funds to provide you with free and high quality data.
 {{% /callout %}}
 
