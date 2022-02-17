@@ -1,8 +1,8 @@
 +++
 title = "What is Survey Harmonization?"
 subtitle = "Create more useable, cheaper, and better-quality questionnaire-based research"
-date = 2021-02-16T17:00:00+01:00
-lastmod = 2021-02-1708:15:00+01:00
+date = 2022-02-16T17:00:00+01:00
+lastmod = 2022-02-17T08:15:00+01:00
 draft = false
 
 authors = ["daniel_antal"]
