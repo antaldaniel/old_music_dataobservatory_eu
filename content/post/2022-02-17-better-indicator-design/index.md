@@ -2,7 +2,7 @@
 title = "How We Design Better Indicators?"
 subtitle = "Create more useable, cheaper, and better-quality questionnaire-based research"
 date = 2022-02-17T09:24:00+01:00
-lastmod = 2022-02-17T09:24:00+01:00
+lastmod = 2022-02-17T10:24:00+01:00
 draft = false
 
 authors = ["daniel_antal"]
