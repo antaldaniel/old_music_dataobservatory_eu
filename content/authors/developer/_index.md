@@ -63,8 +63,7 @@ user_groups:
   - join us
 ---
 
-*Our observatory is currently technically maintained by [Reprex BV](https://reprex.nl/), an early stage Dutch-American data science startup specialized on open collaborations with open data and open-source data solutions.  We are looking for contributor, either as recognized, unpaid, open-source contributors, or as granted and paid contributors when funding available. *
-
+*Our observatory is currently technically maintained by [Reprex BV](https://reprex.nl/), an early stage Dutch-American data science startup specialized on open collaborations with open data and open-source data solutions.  We are looking for contributor, either as recognized, unpaid, open-source contributors, or as granted and paid contributors when funding available.*
 
 ## R developer(s) {#r-developer}
 
@@ -80,29 +79,28 @@ c) excited to maintain and develop one or more of our packages
 All of our packages follow the modernization of the R language and are built on rlang and vctrs. All the packages use the tidyverse as a dependency, which creates a consistent user interface (i.e. dplyr, tidyr, tidyselect.)
 
 ### Packages
-[iotables](https://iotables.dataobservatory.eu/): an R package for reproducible input-output analysis, economic, and environmental impact assessment. The domain specific knowledge is input-output economics, multiplier analysis, and environmental impact analysis. A working knowledge of SNA or an interest in macro-finance is a plus. We develop this application within the rOpenGov community and the rOpenSci community. The application has various uses in banking, insurance, music industry, and policy design.
-[retroharmonize](https://retroharmonize.dataobservatory.eu/): an R package for retrospective survey harmonization and survey recycling. The domain specific knowledge is an interest in international, multi-language surveys, longitudinal surveys, and the reuse of survey data. We develop this application within the rOpenGov community and the rOpenSci community. The application has various uses in survey harmonization, data integration, and survey design. 
-[regions](https://regions.dataobservatory.eu/): an R package for adjusting sub-national boundaries for the making of regional statistics.  While the U.S. has relatively stable sub-national boundaries (the US postal codes), most nations change their internal boundaries very frequently. Currently, regions tracks these changes in Europe, but our package could and should be extended to all ISO-conforming sub-national boundaries globally.  An ideal domain-specific interest is geography, cartography, and/or small-area statistics. The package is currently not developed actively, but we expect it to be developed in a small-area statistics context, or for surveying withing a regional component.  
+
+-[iotables](https://iotables.dataobservatory.eu/): an R package for reproducible input-output analysis, economic, and environmental impact assessment. The domain specific knowledge is input-output economics, multiplier analysis, and environmental impact analysis. A working knowledge of SNA or an interest in macro-finance is a plus. We develop this application within the rOpenGov community and the rOpenSci community. The application has various uses in banking, insurance, music industry, and policy design.
+
+- [retroharmonize](https://retroharmonize.dataobservatory.eu/): an R package for retrospective survey harmonization and survey recycling. The domain specific knowledge is an interest in international, multi-language surveys, longitudinal surveys, and the reuse of survey data. We develop this application within the rOpenGov community and the rOpenSci community. The application has various uses in survey harmonization, data integration, and survey design. 
+
+- [regions](https://regions.dataobservatory.eu/): an R package for adjusting sub-national boundaries for the making of regional statistics.  While the U.S. has relatively stable sub-national boundaries (the US postal codes), most nations change their internal boundaries very frequently. Currently, regions tracks these changes in Europe, but our package could and should be extended to all ISO-conforming sub-national boundaries globally.  An ideal domain-specific interest is geography, cartography, and/or small-area statistics. The package is currently not developed actively, but we expect it to be developed in a small-area statistics context, or for surveying withing a regional component.  
 
 We are also contributing to a range of packages relevant for music analysis, open data access and open science data access and we are planning the release of new open source and non-open-source products.
 
 We are looking for individual(s) who can resolve issues via Github. Time commitments are flexible and compensation is commensurate with experience and skill.
 
 ## Shiny developer {#shiny-developer}
+
 We are looking for a contract-based Shiny developer who can create engaging, user-friendly multi-language Shiny interfaces to our R products. We are interested in working with candidates with experience in Shiny development and/or deployment skills, in particular, the ability to dockerize and deploy in the cloud. Currently we deploy on AWS and Netlify, but potentially we may need to deploy on other cloud servers.
 
 Our Shiny applications have multiple users: 
--          Music organizations and music researchers connected to our [Digital Music Observatory](https://music.dataobservatory.eu/)
--       Sustainable finance, sustainable reporting, and climate mitigation policy experts related to our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/)
--       Antitrust experts, antitrust authorities, and merger analysts associated with our [Competition Data Observatory](https://competition.dataobservatory.eu/)
--       Various creative industry stakeholders related to our [Cultural and Creative Sectors Industries Data Observatory](https://ccsi.dataobservatory.eu/), mainly related to book publishing and film production.
--       Some of our applications are expected to be able to communicate with various Rest APIs, e.g.: the Eurostat and Spotify Rest APIs.
+- Music organizations and music researchers connected to our [Digital Music Observatory](https://music.dataobservatory.eu/)
+- Sustainable finance, sustainable reporting, and climate mitigation policy experts related to our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/)
+- Antitrust experts, antitrust authorities, and merger analysts associated with our [Competition Data Observatory](https://competition.dataobservatory.eu/)
+- Various creative industry stakeholders related to our [Cultural and Creative Sectors Industries Data Observatory](https://ccsi.dataobservatory.eu/), mainly related to book publishing and film production.
+- Some of our applications are expected to be able to communicate with various Rest APIs, e.g.: the Eurostat and Spotify Rest APIs.
 
 Our applications must work with several language; buttons, alternate texts, and descriptions must be parameterized and available for localization. The visual elements must follow simple visual structures and a unified colour palette.
 
-
-- Send us {{< icon name="download" pack="fas" >}} {{< staticref "media/documents/bio_template.md" "newtab" >}}this text file{{< /staticref >}} with your biography elements. Best if you fill it out with Notepad, TextEdit, Vim or other clean text editor, but you can also send it back as an rtf file.
-
-- If you feel you need chatting on onboarding, contact us on [Keybase](https://curators.dataobservatory.eu/tools.html#keybase) - it's lightweight, discrete, encrypted, your mother, partner and friends are not there, it is free, open source, and can share/exchange files, too. Otherwise in email.
-
-More about contributing: [Automated Observatory Contributors’ Handbook](http://contributors.dataobservatory.eu/).
+Get in touch with us on [Keybase](https://keybase.io/team/reprexcommunity) or in [email](https://reprex.nl/#contact).
