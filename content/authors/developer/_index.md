@@ -61,6 +61,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - join us
+  - developers
 ---
 
 *Our observatory is currently technically maintained by [Reprex BV](https://reprex.nl/), an early stage Dutch-American data science startup specialized on open collaborations with open data and open-source data solutions.  We are looking for contributor, either as recognized, unpaid, open-source contributors, or as granted and paid contributors when funding available.*
@@ -70,6 +71,7 @@ user_groups:
 We are looking for intermediate or advanced R users with a passion for open data and open science for the maintenance of our CRAN-released R packages and the development of further packages. We are pursuing a hybrid model, providing the R community with open-source packages, and engaging in paid work that utilizes this software in commercial or academic environments.
 
 Our ideal candidate(s) are
+
 a) at least intermediate-level R programmers or possess domain-specific knowledge relevant to our packages, or
 
 b) advanced in R programming and agnostic to actual packages
