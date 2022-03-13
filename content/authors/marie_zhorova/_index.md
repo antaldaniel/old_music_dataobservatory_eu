@@ -15,8 +15,12 @@ role: Data curator for Listen Local
 
 # Organizations/Affiliations
 organizations:
-- name: BrainZone Synch & Publishing
-  url: "https://brainzonesyncpub.com/en/home/"
+- name: Reprex
+  url: "https://reprex.nl/"
+- name: Artist Bridge Consulting
+  url: "https://www.artistbridgeconsulting.com/"
+- name: Marie de la Montange (artist page)
+  url: https://mariedelamontagne.com/ 
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a music publisher and a performing artist.  
@@ -31,7 +35,7 @@ education:
   - course: MA General Anthropology - Integral study of human
     institution: Charles University in Prague
     year: 2013
-  - course: Master in Law
+  - course: Bachelor in Law
     institution: College of Applied Law
     year: 2012
   - course: B.A. Humanistic Studies
@@ -50,6 +54,15 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mariezhorova/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mariezhorova/
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/CultDataObs/
+- icon: keybase
+  icon_pack: fab
+  link: https://keybase.io/mariezhorova
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,7 +76,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- data curators
+- service development team
 ---
 
-Marie is a Prague based project manager passionate about independent music, sustainability and artistic expression. With her background in anthropology and law studies, she uses professional engagement to understand cultural commonalities, to empower artists and to deliver human-centred authentic stories. For the Digital Music Observatory's [Listen Local Project](https://music.dataobservatory.eu/project/listen-local/), she helps us curating data to create locally relevant, trustworthy, ethical recommendation engines in music streaming.
+Marie is our Prague-based project manager. She is passionate about independent music, sustainability and artistic expression. She is currently working on our development project, [Listen Local Project](https://music.dataobservatory.eu/project/listen-local/), and on various open collaborations with music stakeholders. She also helps us curating data to create locally relevant, trustworthy, ethical recommendation engines in music streaming.
