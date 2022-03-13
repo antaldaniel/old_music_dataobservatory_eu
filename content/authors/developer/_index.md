@@ -49,7 +49,7 @@ social:
   link: https://keybase.io/team/reprexcommunity
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/dataandlyrics
+  link: https://twitter.com/DigitalMusicObs
 - icon: github
   icon_pack: fab
   link: https://github.com/dataobservatory-eu

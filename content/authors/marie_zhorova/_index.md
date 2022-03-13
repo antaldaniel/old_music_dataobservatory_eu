@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data curator for Listen Local
+role: Project Manager
 
 # Organizations/Affiliations
 organizations:
@@ -23,11 +23,11 @@ organizations:
   url: https://mariedelamontagne.com/ 
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a music publisher and a performing artist.  
+bio: Marie is a project manager and a performing artist.  
 
 topics:
-- Music Publishing
-- Music Promotion
+- Music partnerships
+- Music recommendation systems
 - Central European markets
 
 education:
@@ -59,7 +59,7 @@ social:
   link: https://github.com/mariezhorova/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/CultDataObs/
+  link: https://twitter.com/DigitalMusicObs/
 - icon: keybase
   icon_pack: fab
   link: https://keybase.io/mariezhorova
