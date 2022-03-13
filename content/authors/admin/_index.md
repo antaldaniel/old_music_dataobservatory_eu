@@ -39,6 +39,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DigitalMusicObs/
+- icon: fingerprint
+  icon_pack: fas
+  link: https://zenodo.org/communities/music_observatory/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
