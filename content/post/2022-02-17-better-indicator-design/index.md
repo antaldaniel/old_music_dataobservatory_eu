@@ -7,7 +7,7 @@ draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["Digital Music Observatory", "Indicator desing", "Open data", "Open Science", "Open Policy Analysis"]
+tags = ["Digital Music Observatory", "Indicator design", "Open data", "Open Science", "Open Policy Analysis"]
 
 summary = "We want to create open indicators that business users, music organizations, evidence-based policy makers can trust as much as data from Eurostat, U.S. federal agencies, or premium market research companies. Using similarly rigorous statistical standards, open data, open science, and the innovations of data science we want to fill the data gaps of the European music industry with timely, easy-to-import, visualized, documented, high-quality data."
 
