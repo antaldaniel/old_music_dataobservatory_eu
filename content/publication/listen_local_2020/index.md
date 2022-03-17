@@ -58,7 +58,7 @@ math = true
   focal_point = "Left"
 +++
 
-Download the study {{% staticref "https://dataandlyrics.com/media/Listen_Local_Feasibility_Study_2020_SK.pdf" "newtab" %}}in Slovak{{% /staticref %}} or {{% staticref "https://dataandlyrics.com/media/Listen_Local_Feasibility_Study_2020_EN.pdf" "newtab" %}}in English{{% /staticref %}}.
+Download the study {{% staticref "/media/reports/Listen_Local_Feasibility_Study_2020_SK.pdf" "newtab" %}}in Slovak{{% /staticref %}} or {{% staticref "media/reports/Listen_Local_Feasibility_Study_2020_EN.pdf" "newtab" %}}in English{{% /staticref %}}.
 
 In 2015, realizing the low visibility and income-generating potential of Slovak music, the legislation introduced an amendment to the broadcasting act to regulate local content in radiostreams. The Slovak content promoting policy was well-intended but not based on any impact assessment, and it reached its goal only partially.
 
@@ -81,9 +81,9 @@ We then turn in the third chapter to content-based local regulations promoting t
 
 We introduce the idea of the **Slovak Music Database**, a comprehensive, mainly opt-in, opt-out database that of Slovak artists and Slovak music that should be supported by the local content regulation and other policies. We also create a Demo Slovak Music Database to understand the problem and scope of the creation of the comprehensive version.
 
-The project website contains the [Demo Slovak Music Database](https://listenlocal.community/project/demo-sk-music-db/).
+The project website contains the [Demo Slovak Music Database](https://listenlocal.dataobservatory.eu/project/demo-sk-music-db/).
 
-We also created a [Demo Recommendation System](https://listenlocal.community/project/demo-app/). We explain here [why](https://listenlocal.community/post/2020-11-23-alternative-recommendations/).
+We also created a [Demo Recommendation System](https://listenlocal.dataobservatory.eu/project/demo-app/) *which is currently not online*. We explain here [why](https://listenlocal.dataobservatory.eu/post/2020-11-23-alternative-recommendations/).
 
 {{< figure src="/media/img/streaming/listen_local_app_1.png" caption="Screenshot of the first verison of the demo app." numbered="true" >}}
 
@@ -114,4 +114,4 @@ Special thanks to [Tammy Nižňanska](https://dataandlyrics.com/post/2020-11-30-
 
 ## Project Website, Demo App
 
-[Listen Local](https://listenlocal.community/#about) is an open initiative for musicians and music organizations to create new, open AI applications that make locally relevant music visible online and offline. Listen Slovak is our first demonstration project, accompanied with a Feasibility Study. It was created jointly with the Slovak Performing Rights Society, and with the support of the Slovak Arts Council and Consolidated Independent, a music distributor company for independent labels and artist. Our aim was to understand why some Slovak music cannot be heard on radio and on streaming platforms, and to create a database and a demo application that makes that music discoverable.
+[Listen Local](https://listenlocal.dataobservatory.eu/#about) is an open initiative for musicians and music organizations to create new, open AI applications that make locally relevant music visible online and offline. Listen Slovak is our first demonstration project, accompanied with a Feasibility Study. It was created jointly with the Slovak Performing Rights Society, and with the support of the Slovak Arts Council and Consolidated Independent, a music distributor company for independent labels and artist. Our aim was to understand why some Slovak music cannot be heard on radio and on streaming platforms, and to create a database and a demo application that makes that music discoverable.
