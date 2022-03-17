@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data dissemination partner
+role: Innovation dissemination partner
 
 # Organizations/Affiliations
 organizations:

@@ -11,12 +11,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Data dissemination partner
+role: Scientific research partner---open data and copyright.
 
 # Organizations/Affiliations
 organizations:
 - name: Scuola Superiore Sant’Anna
-  url: "https://www.santannapisa.it/"  
+  url: "https://www.santannapisa.it/en/institute/dirpolis/institute-law-politics-and-development"  
 
 # Short bio (displayed in user profile at end of posts)
 bio: The Institute of Law, Politics and Development
@@ -51,4 +51,4 @@ email: ""
 user_groups:
 - institutional partners
 ---
-The [DIRPOLIS Institute]((https://www.santannapisa.it/en/institute/dirpolis/institute-law-politics-and-development) (Institute of Law, Politics and Development) is a research center devoted to interdisciplinary studies in the fields of law, economics and political sciences. Its core mission is to conduct innovative research by adopting a multidisciplinary approach to offer a comprehensive and multi-faceted representation of legal, social, economic and political phenomena. The Institute strives to provide scientifically sound and action-oriented bases to effective decision-making processes, at both private and public levels.
+The [DIRPOLIS Institute](https://www.santannapisa.it/en/institute/dirpolis/institute-law-politics-and-development) (Institute of Law, Politics and Development) is a research center devoted to interdisciplinary studies in the fields of law, economics and political sciences. Its core mission is to conduct innovative research by adopting a multidisciplinary approach to offer a comprehensive and multi-faceted representation of legal, social, economic and political phenomena. The Institute strives to provide scientifically sound and action-oriented bases to effective decision-making processes, at both private and public levels.
