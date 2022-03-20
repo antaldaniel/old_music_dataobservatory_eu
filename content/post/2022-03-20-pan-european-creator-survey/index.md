@@ -1,6 +1,6 @@
 +++
 title = "Pan-European Creator Survey"
-subtitle = "Online monetization, fairness of compensation, attitute to piracy and free use, understanding AI for your work, Covid-19 relief"
+subtitle = "Online monetization, fairness of compensation, attitute to piracy and free use, understanding AI for your work, Covid-19 relief."
 date = 2022-03-20T14:10:00+01:00
 lastmod = 2022-03-10T14:10:00+01:00
 draft = false
@@ -30,7 +30,7 @@ summary = "Understanding coping strategies with online platforms, their algorith
 
 The **Digital Music Observatory** has harmonized and collected surveys in all European countries about how musicians work and earn their living, and how audiences differ in various countries, metropolitan regions in terms of typical age, visiting probability, spending capacity, and other important factors. We helped music organizations to significantly increase the royalty pay-outs of artists in two countries, and we contributed for the advocacy of fairer compensation and fairer taxation in others. 
 
-This year we teamed up with the reCreating Europe research  consortium of renowned experts in the field of copyright, geography and economics of creativity, sociology of innovation, communication and media studies, cultural policies, Open Knowledge and access to culture, cultural policies, minority rights and disability rights.   We are carrying out a truly pan-European survey in all EU languages about important topics for music and other creators:
+This year we teamed up with the [ReCreating Europe](https://www.recreating.eu/) research consortium of renowned experts in the field of copyright, geography and economics of creativity, sociology of innovation, communication and media studies, cultural policies, Open Knowledge and access to culture, cultural policies, minority rights and disability rights.   We are carrying out a truly pan-European survey in all EU languages about important topics for music and other creators:
 
 - [x] Understanding how much creators are aware of the legal and financial terms that online platforms use that distribute their work
 -	Understanding and interest in how AI algorithms contribute to the successful or not successful dissemination of their work, or can support their creative processes
