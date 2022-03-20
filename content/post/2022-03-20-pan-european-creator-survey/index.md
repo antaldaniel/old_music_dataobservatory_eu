@@ -46,7 +46,8 @@ This year we teamed up with the reCreating Europe research  consortium of renown
 - [x] And invite a colleague/friend confident in English to do the same and volunteer for the interview at the end of the survey.
 
 ## Music organizations
-We would like to ask you to ask your members to do the same above, in your newsletter, Facebook page, or other means of communication. The research with free datasets, visualizations, infographics will be placed for free in the [Digital Music Observatory] and the [Cultural and Creative Sectors Industries Data Observatory] and can help your own HR, advocacy, education work.  (We have many other similar data assets that are already there, or we can give to you.) Therefore, it is fully compliant with GDPR---we do not want to know who fills out our survey, the interviews are voluntary, and sharing the survey can contribute to your core business.
+
+We would like to ask you to ask your members to do the same above, in your newsletter, Facebook page, or other means of communication. The research with free datasets, visualizations, infographics will be placed for free in the [Digital Music Observatory](https://music.dataobservatory.eu/) and the [Cultural and Creative Sectors Industries Data Observatory](https://ccsi.dataobservatory.eu/) and can help your own HR, advocacy, education work.  (We have many other similar data assets that are already there, or we can give to you.) Therefore, it is fully compliant with GDPR---we do not want to know who fills out our survey, the interviews are voluntary, and sharing the survey can contribute to your core business.
 
 ## Bloggers
 
