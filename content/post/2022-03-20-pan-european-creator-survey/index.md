@@ -1,15 +1,15 @@
 +++
-title = "What is Survey Harmonization?"
+title = "Pan-European Creator Survey"
 subtitle = "Online monetization, fairness of compensation, attitute to piracy and free use, understanding AI for your work, Covid-19 relief"
-date = 2022-03-20T14:00:00+01:00
-lastmod = 2022-03-10T14:00:00+01:00
+date = 2022-03-20T14:10:00+01:00
+lastmod = 2022-03-10T14:10:00+01:00
 draft = false
 
 authors = ["daniel_antal"]
 
 tags = [ "Digital Music Observatory", "Survey harmonization", "Value of music", "Trustworthy AI"]
 
-summary = "Survey harmonization is a powerful research tool to increase the usability of questionnaire-based empirical research.  When the same questions are asked from similarly selected German and French people, music audiences and musicians, then we can make meaningful comparisons between the public opinions of the two countries, or the different perceptions of fans and makers of music."
+summary = "Understanding coping strategies with online platforms, their algorithms, piracy and free use, and Covid-19 relief measures. A truly Pan-European data collection."
 
 # Featured image
 [image]
