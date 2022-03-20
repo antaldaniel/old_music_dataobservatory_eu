@@ -7,3 +7,6 @@ public/
 .Rhistory
 .Rdata
 .RData
+//.Rhistory
+^.RData
+//.Rdata
