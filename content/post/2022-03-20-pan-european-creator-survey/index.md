@@ -2,7 +2,7 @@
 title = "Pan-European Creator Survey"
 subtitle = "Online monetization, fairness of compensation, attitute to piracy and free use, understanding AI for your work, Covid-19 relief."
 date = 2022-03-20T14:10:00+01:00
-lastmod = 2022-03-10T14:10:00+01:00
+lastmod = 2022-03-20T14:10:00+01:00
 draft = false
 
 authors = ["daniel_antal"]
