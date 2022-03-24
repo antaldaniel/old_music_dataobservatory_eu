@@ -16,11 +16,12 @@ role: Innovation dissemination partner
 # Organizations/Affiliations
 organizations:
 - name: Music Innovation Hub
-  url: "https://datagraver.com/"
+  url: "https://musicinnovationhub.org/home-en/"
 - name: Music Tech Europe
+  url: "https://www.musictecheuropeacademy.eu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: The Music Innovation HUb powers innovative, socially responsible projects in the music industry, to make music a driver of social innovation.
+bio: The Music Innovation Hub powers innovative, socially responsible projects in the music industry, to make music a driver of social innovation.
 
 topics:
 - Music Innovation
