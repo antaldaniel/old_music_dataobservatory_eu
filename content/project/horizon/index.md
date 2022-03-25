@@ -1,7 +1,7 @@
 +++
 # Project title.
 title = "Horizon Europe Consortium"
-subtitle = ""We are looking for end-users and dissemination partners to test our data and visualization products" 
+subtitle = "We are looking for end-users and dissemination partners to test our data and visualization products" 
 
 # Date this page was created.
 date = 2021-10-14T10:00:00

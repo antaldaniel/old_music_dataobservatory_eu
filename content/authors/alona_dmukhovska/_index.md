@@ -28,9 +28,9 @@ topics:
 
 education:
    courses:
-  - course: MSc in International Economics
-   institution: Ukrainian State University of Finance and International Trade
-   year: 2012
+   - course: MSc in International Economics
+     institution: Ukrainian State University of Finance and International Trade
+     year: 2012
 
 
 # Social/Academic Networking
