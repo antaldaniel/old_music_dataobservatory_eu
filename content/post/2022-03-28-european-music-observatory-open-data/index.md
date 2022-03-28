@@ -2,8 +2,8 @@
 title = "Open Data for a future European Music Observatory"
 subtitle = ""
 date = 2022-03-28T12:00:00
-lastmod = 2022-03-28T012:00:00
-draft = false
+lastmod = 2022-03-28T12:00:00
+draft = true
 
 authors = ["Daniel Antal"]
 
