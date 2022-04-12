@@ -177,14 +177,7 @@ Grant, and Miguel 2020b; Berkeley Initiative for Transparency in the
 Social Sciences et al. 2020) and they are fully in line with the Open
 Science objectives of the European Union (Commission et al. 2020).
 
-    knitr::include_graphics(file.path("plots", "OPA_main_figure_with_source.png"))
-
-<img src="plots/OPA_main_figure_with_source.png" alt="Our ambition to increase transparency with introducing the Open Policy Analysis into the European music policies and collaborative data use in the European industry." width="1439" />
-<p class="caption">
-Our ambition to increase transparency with introducing the Open Policy
-Analysis into the European music policies and collaborative data use in
-the European industry.
-</p>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/OPA_main_figure_with_source.png" caption="Our ambition to increase transparency with introducing the Open Policy Analysis into the European music policies and collaborative data use in the European industry." numbered="false" >}}</td>
 
 We believe that existing data availability is better than that described
 in the *Feasibility study*. As stated in this final report, the 2019
