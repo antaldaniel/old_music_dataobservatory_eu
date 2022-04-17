@@ -19,15 +19,16 @@ organizations:
   url: "https://www.musicautor.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Rosina is collective copyright management professional and the head of the public performance licensing Musicautor/Музикаутор. 
+bio: Rosina is collective copyright management professional and the head of the public performance licensing Musicautor/Музикаутор.
 
 topics:
 - Music royalties
 - Music data integration
 
 education:
+    courses:
     - course: Master's Degree in Intellectual Property and Business
-      institution: University of national and world economy, Bulgaria 
+      institution: University of national and world economy, Bulgaria
       year: 2018
     - course: Bachelor's Degrees in Intellectual Property and Business
       institution: University of national and world economy, Bulgaria
@@ -46,7 +47,7 @@ social:
   link: https://www.linkedin.com/in/rosina-petrova-249582216/
 - icon: orcid
   icon_pack: ai
-  link: 
+  link:
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,4 +63,4 @@ user_groups:
 - data curators
 ---
 
-Rosina Petrova is collective copyright management professional and the Head of the Public Performance Licensing Department at the Bulgarian copyright society MUSICAUTOR and takes care of the music licensing processes in the hotels, restaurants and catering sector, live events, theaters, cinemas, and transport. She is also experienced in the field of music copyright in the digital world and the data exchange processes between digital service providers and collective management organizations.
+Rosina is a collective copyright management professional and the Head of the Public Performance Licensing Department at the Bulgarian copyright society Musicautor/Музикаутор and takes care of the music licensing processes in the hotels, restaurants and catering sector, live events, theaters, cinemas, and transport. She is also experienced in the field of music copyright in the digital world and the data exchange processes between digital service providers and collective management organizations.
