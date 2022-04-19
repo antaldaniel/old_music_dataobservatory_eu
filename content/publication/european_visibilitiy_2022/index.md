@@ -20,7 +20,7 @@ abstract_short = "The lacking strategy to organize data and metadata in a multil
 featured = true
 
 # Projects (optional).
-projects = ["market-report"]
+#projects = ["market-report"]
 
 # Slides (optional).
 #   `content/slides/example-slides.md`.
@@ -28,7 +28,7 @@ projects = ["market-report"]
 slides = ""
 
 # Tags (optional).
-tags = ["market-report", "books", "libraries", "shadow libraries"]
+tags = ["Metadata", "Trustworthy AI", "Royalties"]
 
 # Links (optional).
 url_pdf = "https://www.jipitec.eu/issues/jipitec-13-1-2022/5515/senftleben_pdf.pdf"
