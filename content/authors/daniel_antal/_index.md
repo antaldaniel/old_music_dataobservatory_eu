@@ -62,9 +62,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/antaldaniel/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Is3IOGEAAAAJ&hl=en
 - icon: ssrn
   icon_pack: ai
   link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2472686

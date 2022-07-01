@@ -8,7 +8,7 @@ date = 2021-10-14T10:00:00
 lastmod = 2021-05-06T18:52:00
 
 # Project summary to display on homepage.
-summary = "OpenMusE brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers)"
+summary = "OpenMusE brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers)."
 
 # Tags: can be used for filtering projects.
 tags = ["Digital Music Observatory", "Music Moves Europe", "Horizon Europe"]
